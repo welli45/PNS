@@ -1,0 +1,1113 @@
+"IMC_classif","obesid","excpeso","Capital","faixa_idade","rend_per_capita","Sit_Urbano_Rural","Sexo","gescol","Freq"
+"Obesidade grau I","Sim","Sim","Rio Branco","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Sem instrução",11109.8576522316
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Sem instrução",20192.2090046586
+"Abaixo do peso","Não","Não","Manaus","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Sem instrução",11129.7525473418
+"Abaixo do peso","Não","Não","Boa Vista","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Sem instrução",15893.6705785092
+"Abaixo do peso","Não","Não","São Luís","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Sem instrução",42947.6751308287
+"Abaixo do peso","Não","Não","Porto Velho","60 anos ou mais","1/2 até 1 SM","Urbano","Homem","Sem instrução",12325.5812687727
+"Abaixo do peso","Não","Não","Macapá","60 anos ou mais","1/2 até 1 SM","Urbano","Homem","Sem instrução",8709.11103661109
+"Eutrofia","Não","Sim","Teresina","60 anos ou mais","1/2 até 1 SM","Urbano","Homem","Sem instrução",17266.4388566273
+"Abaixo do peso","Não","Não","Teresina","60 anos ou mais","1/2 até 1 SM","Urbano","Homem","Sem instrução",4206.92609249615
+"Abaixo do peso","Não","Não","Fortaleza","60 anos ou mais","1/2 até 1 SM","Urbano","Homem","Sem instrução",8066.64706551854
+"Sobrepeso","Sim","Sim","Natal","40 a 59 anos","1 até 2 SM","Urbano","Homem","Sem instrução",16259.5409869159
+"Eutrofia","Não","Sim","Fortaleza","60 anos ou mais","1 até 2 SM","Urbano","Homem","Sem instrução",3161.24647524604
+"Eutrofia","Não","Sim","Natal","60 anos ou mais","1 até 2 SM","Urbano","Homem","Sem instrução",32624.0042245963
+"Sobrepeso","Sim","Sim","Campo Grande","60 anos ou mais","1 até 2 SM","Urbano","Homem","Sem instrução",7453.92777447192
+"Abaixo do peso","Não","Não","Brasília","60 anos ou mais","1 até 2 SM","Urbano","Homem","Sem instrução",23745.5509902806
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","2 até 3 SM","Urbano","Homem","Sem instrução",11110.7641085935
+"Abaixo do peso","Não","Não","Florianópolis","60 anos ou mais","2 até 3 SM","Urbano","Homem","Sem instrução",5600.92850256406
+"Eutrofia","Não","Não","Recife","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Sem instrução",11696.1808120553
+"Abaixo do peso","Não","Não","Rio Branco","18 a 24 anos","Até 1/2 SM","Rural","Homem","Sem instrução",2408.59155503951
+"Abaixo do peso","Não","Não","Porto Velho","40 a 59 anos","1/2 até 1 SM","Rural","Homem","Sem instrução",2778.1672469966
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","1/2 até 1 SM","Rural","Homem","Sem instrução",4308.56065418494
+"Abaixo do peso","Não","Não","Boa Vista","40 a 59 anos","1 até 2 SM","Rural","Homem","Sem instrução",138.539259312263
+"Sobrepeso","Sim","Sim","Palmas","40 a 59 anos","1 até 2 SM","Rural","Homem","Sem instrução",693.725426774008
+"Abaixo do peso","Não","Não","Teresina","40 a 59 anos","1 até 2 SM","Rural","Homem","Sem instrução",2651.9821355013
+"Sobrepeso","Sim","Sim","Boa Vista","60 anos ou mais","1 até 2 SM","Rural","Homem","Sem instrução",147.058161099592
+"Abaixo do peso","Não","Não","Boa Vista","60 anos ou mais","1 até 2 SM","Rural","Homem","Sem instrução",265.313930933132
+"Eutrofia","Não","Sim","Palmas","60 anos ou mais","1 até 2 SM","Rural","Homem","Sem instrução",400.670951252441
+"Abaixo do peso","Não","Não","Palmas","60 anos ou mais","1 até 2 SM","Rural","Homem","Sem instrução",1660.67565323507
+"Eutrofia","Não","Sim","Cuiabá","60 anos ou mais","1 até 2 SM","Rural","Homem","Sem instrução",668.96413104597
+"Sobrepeso","Sim","Sim","Manaus","60 anos ou mais","2 até 3 SM","Rural","Homem","Sem instrução",560.659339630033
+"Sobrepeso","Sim","Sim","Manaus","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Sem instrução",10658.9560426785
+"Obesidade grau III","Sim","Sim","Belém","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Sem instrução",140746.453003382
+"Sobrepeso","Sim","Sim","Salvador","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Sem instrução",31009.8231179934
+"Abaixo do peso","Não","Não","Maceió","60 anos ou mais","Até 1/2 SM","Urbano","Mulher","Sem instrução",6575.1195205715
+"Sobrepeso","Sim","Sim","Natal","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Sem instrução",36353.3723811092
+"Sobrepeso","Sim","Sim","Aracaju","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Sem instrução",10349.3864539751
+"Abaixo do peso","Não","Não","Belém","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Sem instrução",99742.0413948911
+"Abaixo do peso","Não","Não","João Pessoa","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Sem instrução",10896.9044186158
+"Obesidade grau I","Sim","Sim","Aracaju","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Sem instrução",81142.6644589454
+"Sobrepeso","Sim","Sim","Salvador","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Sem instrução",18148.9791612738
+"Abaixo do peso","Não","Não","Rio de Janeiro","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Sem instrução",19879.4455113592
+"Eutrofia","Não","Sim","Belém","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Sem instrução",23784.1842843404
+"Abaixo do peso","Não","Não","Manaus","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Sem instrução",42717.8321403029
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Sem instrução",27016.7922066265
+"Abaixo do peso","Não","Não","Rio de Janeiro","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Sem instrução",24400.9270462514
+"Eutrofia","Não","Sim","Goiânia","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Sem instrução",9517.07694486335
+"Abaixo do peso","Não","Não","Brasília","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Sem instrução",17130.385711907
+"Abaixo do peso","Não","Não","Natal","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Sem instrução",17159.147232129
+"Sobrepeso","Sim","Sim","Maceió","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Sem instrução",3655.33795097697
+"Sobrepeso","Sim","Sim","Rio Branco","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Sem instrução",7639.81183615799
+"Eutrofia","Não","Sim","Belo Horizonte","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Sem instrução",9529.14928842288
+"Eutrofia","Não","Sim","Vitória","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Sem instrução",7153.30736881327
+"Sobrepeso","Não","Sim","São Luís","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Sem instrução",16950.3152673232
+"Sobrepeso","Sim","Sim","Rio de Janeiro","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Sem instrução",4105.43432940237
+"Sobrepeso","Sim","Sim","Porto Velho","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Sem instrução",295.094945013034
+"Eutrofia","Não","Sim","Macapá","40 a 59 anos","Até 1/2 SM","Rural","Mulher","Sem instrução",1198.89410327113
+"Eutrofia","Não","Sim","Manaus","60 anos ou mais","Até 1/2 SM","Rural","Mulher","Sem instrução",1068.83686742443
+"Sobrepeso","Sim","Sim","Rio Branco","40 a 59 anos","1/2 até 1 SM","Rural","Mulher","Sem instrução",2159.53208028863
+"Eutrofia","Não","Sim","Boa Vista","40 a 59 anos","1/2 até 1 SM","Rural","Mulher","Sem instrução",795.674215798645
+"Eutrofia","Não","Sim","São Luís","40 a 59 anos","1/2 até 1 SM","Rural","Mulher","Sem instrução",3457.60197391174
+"Obesidade grau I","Sim","Sim","Teresina","40 a 59 anos","1/2 até 1 SM","Rural","Mulher","Sem instrução",3409.08188358344
+"Sobrepeso","Sim","Sim","Rio Branco","40 a 59 anos","1 até 2 SM","Rural","Mulher","Sem instrução",1772.14335876072
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","1 até 2 SM","Rural","Mulher","Sem instrução",13287.1715098444
+"Abaixo do peso","Não","Não","Porto Velho","60 anos ou mais","1 até 2 SM","Rural","Mulher","Sem instrução",319.572539454714
+"Abaixo do peso","Não","Não","Campo Grande","60 anos ou mais","1 até 2 SM","Rural","Mulher","Sem instrução",453.69125909939
+"Abaixo do peso","Não","Não","Rio Branco","40 a 59 anos","Mais de 3 SM","Rural","Mulher","Sem instrução",886.071679380358
+"Abaixo do peso","Não","Não","Macapá","18 a 24 anos","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",32158.6882014447
+"Obesidade grau I","Sim","Sim","Fortaleza","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",13039.6670395676
+"Abaixo do peso","Não","Não","Fortaleza","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",16647.7953736283
+"Sobrepeso","Sim","Sim","Maceió","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",5101.5140206543
+"Eutrofia","Não","Sim","Belo Horizonte","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",44800.7913840736
+"Abaixo do peso","Não","Não","Porto Alegre","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",3912.76399362189
+"Abaixo do peso","Não","Não","Recife","40 a 59 anos","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",17032.5512296598
+"Eutrofia","Não","Sim","Maceió","40 a 59 anos","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",21884.547153694
+"Abaixo do peso","Não","Não","Curitiba","40 a 59 anos","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",5015.82747535653
+"Sobrepeso","Sim","Sim","Cuiabá","40 a 59 anos","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",16584.5767610531
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",34758.4835171021
+"Eutrofia","Não","Sim","Brasília","60 anos ou mais","Até 1/2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",28053.9408130989
+"Eutrofia","Não","Sim","Cuiabá","18 a 24 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",11840.6847583253
+"Eutrofia","Não","Sim","Boa Vista","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",8549.49867139347
+"Eutrofia","Não","Sim","Macapá","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",9615.071310409
+"Abaixo do peso","Não","Não","Natal","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",39711.0702633367
+"Eutrofia","Não","Sim","João Pessoa","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",68083.4898875632
+"Abaixo do peso","Não","Não","Salvador","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",45602.1170829748
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",23703.4421277293
+"Abaixo do peso","Não","Não","Porto Alegre","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",7825.52798724378
+"Abaixo do peso","Não","Não","Porto Velho","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",62730.3051916864
+"Eutrofia","Não","Sim","Manaus","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",27564.0183719024
+"Abaixo do peso","Não","Não","Teresina","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",9016.0348600787
+"Eutrofia","Não","Sim","Fortaleza","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",6602.84582334229
+"Eutrofia","Não","Sim","Aracaju","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",55968.658012977
+"Sobrepeso","Sim","Sim","Salvador","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",39124.9216436777
+"Obesidade grau I","Sim","Sim","Belo Horizonte","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",64062.3566257973
+"Eutrofia","Não","Sim","Manaus","60 anos ou mais","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",9082.04819534022
+"Eutrofia","Não","Sim","Rio de Janeiro","60 anos ou mais","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",49059.5524605642
+"Sobrepeso","Sim","Sim","Campo Grande","60 anos ou mais","1/2 até 1 SM","Urbano","Homem","Fundamental incompleto ou equivalente",8749.64696585615
+"Abaixo do peso","Não","Não","São Paulo","18 a 24 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",133852.79892416
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",11055.4284165514
+"Sobrepeso","Sim","Sim","Fortaleza","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",8323.8976868081
+"Eutrofia","Não","Sim","Rio de Janeiro","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",33940.937449055
+"Abaixo do peso","Não","Não","Campo Grande","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",22502.8486123362
+"Sobrepeso","Sim","Sim","Teresina","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",7405.68645145151
+"Obesidade grau I","Sim","Sim","Teresina","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",7405.68645145151
+"Eutrofia","Não","Sim","Natal","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",8459.96660222705
+"Eutrofia","Não","Sim","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",14963.595052205
+"Sobrepeso","Sim","Sim","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",40403.4843374836
+"Sobrepeso","Não","Sim","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",9826.44060721537
+"Sobrepeso","Sim","Sim","Rio de Janeiro","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",87360.1887248472
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",10367.8706725308
+"Sobrepeso","Sim","Sim","Campo Grande","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",21591.9556837066
+"Eutrofia","Não","Sim","Rio Branco","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",6084.75236380448
+"Abaixo do peso","Não","Não","Rio Branco","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",3042.37618190224
+"Abaixo do peso","Não","Não","Manaus","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",22690.452005505
+"Abaixo do peso","Não","Não","Macapá","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",2042.02060602496
+"Abaixo do peso","Não","Não","Teresina","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",7503.57544350537
+"Abaixo do peso","Não","Não","Rio de Janeiro","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",23263.6358556665
+"Obesidade grau III","Sim","Sim","São Paulo","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",338143.439449699
+"Abaixo do peso","Não","Não","Cuiabá","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",31788.6703146713
+"Abaixo do peso","Não","Não","Brasília","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental incompleto ou equivalente",18350.2358353264
+"Eutrofia","Não","Sim","São Luís","25 a 39 anos","2 até 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",16685.9112425735
+"Eutrofia","Não","Sim","Fortaleza","40 a 59 anos","2 até 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",5593.77484880767
+"Obesidade grau III","Sim","Sim","Rio de Janeiro","40 a 59 anos","2 até 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",6747.001437878
+"Eutrofia","Não","Sim","Campo Grande","40 a 59 anos","2 até 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",15568.9017792694
+"Eutrofia","Não","Sim","São Luís","60 anos ou mais","2 até 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",5489.35424717868
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","2 até 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",4111.34681478587
+"Eutrofia","Não","Sim","Goiânia","60 anos ou mais","2 até 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",130558.232192441
+"Abaixo do peso","Não","Não","Brasília","60 anos ou mais","2 até 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",66877.3374040865
+"Abaixo do peso","Não","Não","Porto Velho","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",14809.7623424115
+"Abaixo do peso","Não","Não","Rio de Janeiro","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",68792.9723526076
+"Sobrepeso","Sim","Sim","Palmas","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",3910.08876909176
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",10367.8706725308
+"Abaixo do peso","Não","Não","Goiânia","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",96625.8693612139
+"Abaixo do peso","Não","Não","Boa Vista","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",15222.270780277
+"Eutrofia","Não","Sim","Palmas","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",3675.05410463454
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",34758.4835171021
+"Eutrofia","Não","Sim","Rio de Janeiro","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",70286.0772825151
+"Sobrepeso","Sim","Sim","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",2202.23813078867
+"Eutrofia","Não","Sim","Cuiabá","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Fundamental incompleto ou equivalente",19590.7807141816
+"Abaixo do peso","Não","Não","São Luís","40 a 59 anos","Até 1/2 SM","Rural","Homem","Fundamental incompleto ou equivalente",3336.88815911477
+"Abaixo do peso","Não","Não","Teresina","40 a 59 anos","Até 1/2 SM","Rural","Homem","Fundamental incompleto ou equivalente",1645.03101523112
+"Abaixo do peso","Não","Não","Palmas","60 anos ou mais","Até 1/2 SM","Rural","Homem","Fundamental incompleto ou equivalente",200.335475631208
+"Abaixo do peso","Não","Não","São Paulo","60 anos ou mais","Até 1/2 SM","Rural","Homem","Fundamental incompleto ou equivalente",1174.74379941053
+"Eutrofia","Não","Sim","Rio Branco","18 a 24 anos","1/2 até 1 SM","Rural","Homem","Fundamental incompleto ou equivalente",2408.59155503951
+"Eutrofia","Não","Sim","Teresina","25 a 39 anos","1/2 até 1 SM","Rural","Homem","Fundamental incompleto ou equivalente",1917.36861852135
+"Abaixo do peso","Não","Não","Teresina","25 a 39 anos","1/2 até 1 SM","Rural","Homem","Fundamental incompleto ou equivalente",9273.06648277698
+"Eutrofia","Não","Sim","Brasília","25 a 39 anos","1/2 até 1 SM","Rural","Homem","Fundamental incompleto ou equivalente",14946.1975697847
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","1/2 até 1 SM","Rural","Homem","Fundamental incompleto ou equivalente",1571.31946945159
+"Abaixo do peso","Não","Não","Boa Vista","40 a 59 anos","1/2 até 1 SM","Rural","Homem","Fundamental incompleto ou equivalente",138.539259312263
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","1/2 até 1 SM","Rural","Homem","Fundamental incompleto ou equivalente",696.800714663705
+"Abaixo do peso","Não","Não","Florianópolis","40 a 59 anos","1/2 até 1 SM","Rural","Homem","Fundamental incompleto ou equivalente",1438.29726674147
+"Eutrofia","Não","Sim","Manaus","60 anos ou mais","1/2 até 1 SM","Rural","Homem","Fundamental incompleto ou equivalente",1657.07451834618
+"Sobrepeso","Sim","Sim","Cuiabá","18 a 24 anos","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",655.921747224535
+"Eutrofia","Não","Sim","São Paulo","25 a 39 anos","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",5057.6946808322
+"Eutrofia","Não","Sim","Cuiabá","25 a 39 anos","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",814.286358864252
+"Eutrofia","Não","Sim","Brasília","25 a 39 anos","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",5021.84999118048
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",1571.31946945159
+"Abaixo do peso","Não","Não","Porto Velho","40 a 59 anos","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",3040.76508807827
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",648.519817812974
+"Eutrofia","Não","Sim","Campo Grande","40 a 59 anos","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",794.952536074263
+"Sobrepeso","Sim","Sim","Rio Branco","60 anos ou mais","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",1637.65608065246
+"Eutrofia","Não","Sim","Boa Vista","60 anos ou mais","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",132.656965466566
+"Abaixo do peso","Não","Não","Palmas","60 anos ou mais","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",400.670951252441
+"Eutrofia","Não","Sim","São Paulo","60 anos ou mais","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",5947.73116942168
+"Obesidade grau I","Sim","Sim","Campo Grande","60 anos ou mais","1 até 2 SM","Rural","Homem","Fundamental incompleto ou equivalente",507.466218840581
+"Abaixo do peso","Não","Não","Campo Grande","18 a 24 anos","2 até 3 SM","Rural","Homem","Fundamental incompleto ou equivalente",787.537101860494
+"Eutrofia","Não","Sim","São Paulo","25 a 39 anos","2 até 3 SM","Rural","Homem","Fundamental incompleto ou equivalente",3010.77448886533
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","2 até 3 SM","Rural","Homem","Fundamental incompleto ou equivalente",6393.09968500579
+"Eutrofia","Não","Sim","Cuiabá","40 a 59 anos","2 até 3 SM","Rural","Homem","Fundamental incompleto ou equivalente",232.875810919853
+"Abaixo do peso","Não","Não","Brasília","40 a 59 anos","2 até 3 SM","Rural","Homem","Fundamental incompleto ou equivalente",2154.28032709247
+"Abaixo do peso","Não","Não","Manaus","60 anos ou mais","2 até 3 SM","Rural","Homem","Fundamental incompleto ou equivalente",414.268629589039
+"Sobrepeso","Sim","Sim","Brasília","40 a 59 anos","Mais de 3 SM","Rural","Homem","Fundamental incompleto ou equivalente",2022.20055949214
+"Sobrepeso","Sim","Sim","Brasília","18 a 24 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",57758.9728086619
+"Obesidade grau I","Sim","Sim","Manaus","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",21317.9120853571
+"Eutrofia","Não","Sim","Macapá","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",8022.03832729885
+"Sobrepeso","Não","Sim","Brasília","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",57711.4308650772
+"Sobrepeso","Sim","Sim","Manaus","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",24950.1918554888
+"Eutrofia","Não","Sim","Manaus","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",4914.13862287255
+"Eutrofia","Não","Sim","Teresina","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",4671.09750801045
+"Abaixo do peso","Não","Não","Teresina","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",11381.0161725836
+"Abaixo do peso","Não","Não","Fortaleza","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",39593.5750781408
+"Abaixo do peso","Não","Não","Natal","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",17651.5732166933
+"Sobrepeso","Sim","Sim","João Pessoa","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",30263.1155148715
+"Sobrepeso","Sim","Sim","Maceió","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",11196.6651809666
+"Eutrofia","Não","Sim","Maceió","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",76644.9163464629
+"Eutrofia","Não","Não","Maceió","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",63870.7636220561
+"Obesidade grau I","Sim","Sim","Aracaju","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",10349.3864539751
+"Abaixo do peso","Não","Não","Salvador","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",37612.913024379
+"Abaixo do peso","Não","Não","Vitória","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",14322.2157370398
+"Sobrepeso","Sim","Sim","Rio de Janeiro","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",22925.1396336444
+"Obesidade grau I","Sim","Sim","São Paulo","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",31608.5445265651
+"Eutrofia","Não","Sim","Porto Alegre","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",6956.89535991417
+"Eutrofia","Não","Sim","Goiânia","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",3126.03094922904
+"Eutrofia","Não","Sim","Porto Velho","60 anos ou mais","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",76340.6235493064
+"Abaixo do peso","Não","Não","Macapá","60 anos ou mais","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",3346.40139644722
+"Sobrepeso","Sim","Sim","São Paulo","60 anos ou mais","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",5497.14861518538
+"Eutrofia","Não","Sim","Cuiabá","60 anos ou mais","Até 1/2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",5115.96389922699
+"Eutrofia","Não","Sim","Macapá","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",14343.590003261
+"Sobrepeso","Sim","Sim","Fortaleza","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",19900.5997354765
+"Obesidade grau I","Sim","Sim","Manaus","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",9734.03562828061
+"Abaixo do peso","Não","Não","Teresina","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",31973.6330828885
+"Eutrofia","Não","Sim","Maceió","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",15798.4168344185
+"Abaixo do peso","Não","Não","Maceió","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",6750.71615031841
+"Abaixo do peso","Não","Não","Rio de Janeiro","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",12237.8555847838
+"Sobrepeso","Sim","Sim","Campo Grande","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",15453.6216234341
+"Sobrepeso","Sim","Sim","Fortaleza","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",14799.8921703924
+"Obesidade grau I","Sim","Sim","João Pessoa","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",7629.18349467286
+"Eutrofia","Não","Sim","Salvador","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",27476.0023644157
+"Sobrepeso","Sim","Sim","Belo Horizonte","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",5709.80649548304
+"Obesidade grau I","Sim","Sim","Belo Horizonte","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",32364.1489769064
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",15272.8764735128
+"Obesidade grau III","Sim","Sim","Vitória","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",12181.2519596995
+"Obesidade grau I","Sim","Sim","Porto Alegre","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",6956.89535991417
+"Eutrofia","Não","Sim","Boa Vista","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",26779.8834062642
+"Eutrofia","Não","Sim","Belo Horizonte","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",46777.0105939145
+"Abaixo do peso","Não","Não","São Paulo","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",116022.605202651
+"Sobrepeso","Sim","Sim","Campo Grande","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",28569.0783611877
+"Abaixo do peso","Não","Não","Goiânia","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",68799.7706929484
+"Eutrofia","Não","Sim","Brasília","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",20119.2643825126
+"Eutrofia","Não","Sim","Campo Grande","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",25861.7830400268
+"Eutrofia","Não","Sim","Teresina","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",6828.60970355018
+"Sobrepeso","Sim","Sim","João Pessoa","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",32811.711467406
+"Eutrofia","Não","Sim","João Pessoa","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",30263.1155148715
+"Sobrepeso","Sim","Sim","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",115766.113841995
+"Eutrofia","Não","Sim","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",40146.4491586416
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",48546.2234653596
+"Eutrofia","Não","Sim","Vitória","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",24362.5039194099
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",90520.4929183078
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",119805.489363253
+"Obesidade grau I","Sim","Sim","Goiânia","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",23431.6043858015
+"Eutrofia","Não","Não","Rio Branco","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",7639.81183615799
+"Abaixo do peso","Não","Não","Manaus","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",23801.6086132905
+"Sobrepeso","Sim","Sim","Boa Vista","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",17410.0287333622
+"Abaixo do peso","Não","Não","Palmas","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",9341.46171400004
+"Abaixo do peso","Não","Não","São Luís","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",2325.52551493671
+"Eutrofia","Não","Sim","João Pessoa","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",13440.464418025
+"Sobrepeso","Sim","Sim","Maceió","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",22435.4152848627
+"Obesidade grau III","Sim","Sim","Maceió","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",9862.67928084458
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",19346.2140078003
+"Sobrepeso","Sim","Sim","Belo Horizonte","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",8905.80278954907
+"Eutrofia","Não","Sim","Belo Horizonte","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",5937.20185970783
+"Abaixo do peso","Não","Não","Belo Horizonte","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",5937.20185970783
+"Eutrofia","Não","Sim","Vitória","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",16821.1299968919
+"Sobrepeso","Sim","Sim","Rio de Janeiro","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",20993.8044766669
+"Obesidade grau I","Sim","Sim","Rio de Janeiro","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",8444.18507363226
+"Eutrofia","Não","Sim","Rio de Janeiro","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",71827.5168163378
+"Abaixo do peso","Não","Não","Rio de Janeiro","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",31175.5907510585
+"Eutrofia","Não","Sim","São Paulo","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",199022.164000725
+"Sobrepeso","Sim","Sim","Curitiba","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",35827.8866858117
+"Abaixo do peso","Não","Não","Florianópolis","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",25237.4111678386
+"Eutrofia","Não","Sim","Campo Grande","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",15663.6516962211
+"Eutrofia","Não","Sim","Cuiabá","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",20182.8594229113
+"Obesidade grau I","Sim","Sim","Goiânia","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",55039.8165543587
+"Abaixo do peso","Não","Não","Campo Grande","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",10268.4277554181
+"Eutrofia","Não","Sim","Cuiabá","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",24871.0731485013
+"Abaixo do peso","Não","Não","Natal","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",36353.3723811092
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",195268.765983989
+"Sobrepeso","Sim","Sim","Goiânia","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",6344.71796324223
+"Sobrepeso","Sim","Sim","Palmas","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",9341.46171400004
+"Eutrofia","Não","Sim","Fortaleza","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",17820.2946056418
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",176702.183841194
+"Eutrofia","Não","Sim","Belo Horizonte","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",19005.4935344745
+"Obesidade grau I","Sim","Sim","Rio de Janeiro","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",35438.1148540657
+"Eutrofia","Não","Sim","Rio de Janeiro","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",42064.5966911854
+"Abaixo do peso","Não","Não","São Paulo","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",70354.4670713448
+"Eutrofia","Não","Sim","Curitiba","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",43647.8252110786
+"Eutrofia","Não","Sim","Florianópolis","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",18208.5964694111
+"Obesidade grau III","Sim","Sim","Porto Alegre","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",11195.5484725428
+"Sobrepeso","Sim","Sim","Brasília","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",71309.103640639
+"Abaixo do peso","Não","Não","Boa Vista","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",5196.55903005391
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",24340.5523751133
+"Abaixo do peso","Não","Não","Belo Horizonte","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",26565.5873300056
+"Eutrofia","Não","Sim","Vitória","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",12281.4016557484
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",50348.1753822584
+"Eutrofia","Não","Sim","Campo Grande","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",14202.2756901477
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",29785.7855670562
+"Eutrofia","Não","Sim","Belém","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",13484.5749983795
+"Abaixo do peso","Não","Não","Teresina","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",16858.81498712
+"Sobrepeso","Sim","Sim","Recife","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",25214.1034524351
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",37664.0706467323
+"Eutrofia","Não","Sim","Belo Horizonte","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",24584.8252966584
+"Eutrofia","Não","Sim","São Paulo","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",10994.2972303708
+"Abaixo do peso","Não","Não","São Paulo","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",18960.8910358159
+"Eutrofia","Não","Sim","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",5597.77423627141
+"Abaixo do peso","Não","Não","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental incompleto ou equivalente",11095.5856737096
+"Eutrofia","Não","Sim","Porto Velho","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",2341.47901106764
+"Eutrofia","Não","Sim","Macapá","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",3900.67126527819
+"Abaixo do peso","Não","Não","Macapá","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",5200.89502036311
+"Eutrofia","Não","Sim","São Luís","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",3123.64314128154
+"Obesidade grau I","Sim","Sim","Teresina","40 a 59 anos","Até 1/2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",2556.81141269028
+"Eutrofia","Não","Sim","São Luís","25 a 39 anos","1/2 até 1 SM","Rural","Mulher","Fundamental incompleto ou equivalente",3749.83596122698
+"Eutrofia","Não","Sim","Brasília","25 a 39 anos","1/2 até 1 SM","Rural","Mulher","Fundamental incompleto ou equivalente",4137.65202013741
+"Obesidade grau III","Sim","Sim","Rio Branco","40 a 59 anos","1/2 até 1 SM","Rural","Mulher","Fundamental incompleto ou equivalente",2159.53208028863
+"Sobrepeso","Sim","Sim","Palmas","40 a 59 anos","1/2 até 1 SM","Rural","Mulher","Fundamental incompleto ou equivalente",1437.64267220924
+"Obesidade grau I","Sim","Sim","Teresina","40 a 59 anos","1/2 até 1 SM","Rural","Mulher","Fundamental incompleto ou equivalente",5495.83817572148
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","1/2 até 1 SM","Rural","Mulher","Fundamental incompleto ou equivalente",2793.80640994186
+"Sobrepeso","Sim","Sim","Belém","60 anos ou mais","1/2 até 1 SM","Rural","Mulher","Fundamental incompleto ou equivalente",1945.39679680869
+"Abaixo do peso","Não","Não","São Paulo","60 anos ou mais","1/2 até 1 SM","Rural","Mulher","Fundamental incompleto ou equivalente",5280.79594929158
+"Eutrofia","Não","Sim","Brasília","60 anos ou mais","1/2 até 1 SM","Rural","Mulher","Fundamental incompleto ou equivalente",5601.07850795631
+"Sobrepeso","Sim","Sim","Macapá","25 a 39 anos","1 até 2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",1580.14191185332
+"Abaixo do peso","Não","Não","Campo Grande","25 a 39 anos","1 até 2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",1191.10639019247
+"Abaixo do peso","Não","Não","Palmas","40 a 59 anos","1 até 2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",433.574774153718
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","1 até 2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",722.007874271542
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","1 até 2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",5353.15779471448
+"Abaixo do peso","Não","Não","Manaus","60 anos ou mais","1 até 2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",712.557911616285
+"Sobrepeso","Sim","Sim","Palmas","60 anos ou mais","1 até 2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",509.224115410521
+"Eutrofia","Não","Sim","Florianópolis","60 anos ou mais","1 até 2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",3500.71659486382
+"Sobrepeso","Sim","Sim","Goiânia","60 anos ou mais","1 até 2 SM","Rural","Mulher","Fundamental incompleto ou equivalente",592.716996197986
+"Abaixo do peso","Não","Não","Macapá","18 a 24 anos","2 até 3 SM","Rural","Mulher","Fundamental incompleto ou equivalente",2825.33027216597
+"Obesidade grau III","Sim","Sim","Florianópolis","40 a 59 anos","2 até 3 SM","Rural","Mulher","Fundamental incompleto ou equivalente",2235.49272470452
+"Abaixo do peso","Não","Não","Florianópolis","40 a 59 anos","2 até 3 SM","Rural","Mulher","Fundamental incompleto ou equivalente",965.940826178276
+"Sobrepeso","Sim","Sim","Campo Grande","40 a 59 anos","2 até 3 SM","Rural","Mulher","Fundamental incompleto ou equivalente",386.29177064985
+"Abaixo do peso","Não","Não","Campo Grande","60 anos ou mais","2 até 3 SM","Rural","Mulher","Fundamental incompleto ou equivalente",453.69125909939
+"Abaixo do peso","Não","Não","Goiânia","60 anos ou mais","2 até 3 SM","Rural","Mulher","Fundamental incompleto ou equivalente",513.259827766758
+"Obesidade grau I","Sim","Sim","Brasília","60 anos ou mais","Mais de 3 SM","Rural","Mulher","Fundamental incompleto ou equivalente",15605.4931277196
+"Abaixo do peso","Não","Não","Belém","18 a 24 anos","Até 1/2 SM","Urbano","Homem","Fundamental completo ou equivalente",89420.3883168176
+"Abaixo do peso","Não","Não","Teresina","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Fundamental completo ou equivalente",7681.22468206214
+"Eutrofia","Não","Sim","Aracaju","40 a 59 anos","Até 1/2 SM","Urbano","Homem","Fundamental completo ou equivalente",66676.2186228239
+"Abaixo do peso","Não","Não","Manaus","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental completo ou equivalente",42516.2244816112
+"Sobrepeso","Sim","Sim","Belém","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental completo ou equivalente",101874.473119235
+"Eutrofia","Não","Sim","Fortaleza","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental completo ou equivalente",72505.3537845138
+"Eutrofia","Não","Sim","João Pessoa","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental completo ou equivalente",5969.43984336304
+"Sobrepeso","Sim","Sim","Rio de Janeiro","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Fundamental completo ou equivalente",12382.2286814477
+"Eutrofia","Não","Não","Manaus","60 anos ou mais","1/2 até 1 SM","Urbano","Homem","Fundamental completo ou equivalente",52787.3333729925
+"Sobrepeso","Sim","Sim","Porto Alegre","60 anos ou mais","1/2 até 1 SM","Urbano","Homem","Fundamental completo ou equivalente",25446.5950159833
+"Abaixo do peso","Não","Não","Fortaleza","18 a 24 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",103110.818841965
+"Eutrofia","Não","Sim","Palmas","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",4557.41042696146
+"Abaixo do peso","Não","Não","Fortaleza","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",42254.3674660333
+"Sobrepeso","Sim","Sim","Salvador","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",14469.6881231414
+"Sobrepeso","Sim","Sim","Belo Horizonte","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",4281.81904144668
+"Obesidade grau III","Sim","Sim","Porto Alegre","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",25539.5928133002
+"Eutrofia","Não","Sim","Cuiabá","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",64490.4547253616
+"Abaixo do peso","Não","Não","Goiânia","25 a 39 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",7032.68955952325
+"Abaixo do peso","Não","Não","Natal","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",35084.1822620703
+"Sobrepeso","Sim","Sim","João Pessoa","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",10392.2720126523
+"Sobrepeso","Sim","Sim","Aracaju","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",22024.8090601427
+"Abaixo do peso","Não","Não","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",7456.65249229292
+"Sobrepeso","Sim","Sim","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",14739.6609108335
+"Eutrofia","Não","Sim","Florianópolis","40 a 59 anos","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",7481.14673768604
+"Eutrofia","Não","Sim","Vitória","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",16885.2321482534
+"Sobrepeso","Sim","Sim","Curitiba","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",12124.4539472431
+"Abaixo do peso","Não","Não","Campo Grande","60 anos ou mais","1 até 2 SM","Urbano","Homem","Fundamental completo ou equivalente",13167.910099735
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","2 até 3 SM","Urbano","Homem","Fundamental completo ou equivalente",173434.155465082
+"Eutrofia","Não","Sim","Curitiba","40 a 59 anos","2 até 3 SM","Urbano","Homem","Fundamental completo ou equivalente",33859.3650194657
+"Sobrepeso","Sim","Sim","Cuiabá","60 anos ou mais","2 até 3 SM","Urbano","Homem","Fundamental completo ou equivalente",21192.4468764509
+"Eutrofia","Não","Sim","Belo Horizonte","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Fundamental completo ou equivalente",7708.71532106623
+"Eutrofia","Não","Sim","Campo Grande","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Fundamental completo ou equivalente",22478.9036044661
+"Abaixo do peso","Não","Não","Palmas","60 anos ou mais","1/2 até 1 SM","Rural","Homem","Fundamental completo ou equivalente",1660.67565323507
+"Eutrofia","Não","Sim","Porto Velho","25 a 39 anos","1 até 2 SM","Rural","Homem","Fundamental completo ou equivalente",1619.04871309272
+"Obesidade grau I","Sim","Sim","Cuiabá","25 a 39 anos","1 até 2 SM","Rural","Homem","Fundamental completo ou equivalente",674.945280107127
+"Abaixo do peso","Não","Não","Goiânia","25 a 39 anos","1 até 2 SM","Rural","Homem","Fundamental completo ou equivalente",378.450726952432
+"Sobrepeso","Sim","Sim","São Paulo","40 a 59 anos","2 até 3 SM","Rural","Homem","Fundamental completo ou equivalente",3680.50336323336
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","2 até 3 SM","Rural","Homem","Fundamental completo ou equivalente",2583.13261529733
+"Obesidade grau I","Sim","Sim","Cuiabá","60 anos ou mais","Mais de 3 SM","Rural","Homem","Fundamental completo ou equivalente",554.490662769059
+"Sobrepeso","Sim","Sim","Brasília","60 anos ou mais","Mais de 3 SM","Rural","Homem","Fundamental completo ou equivalente",2644.24568975481
+"Abaixo do peso","Não","Não","Rio Branco","18 a 24 anos","Até 1/2 SM","Urbano","Mulher","Fundamental completo ou equivalente",6384.09681274764
+"Eutrofia","Não","Sim","Fortaleza","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Fundamental completo ou equivalente",10734.9987637257
+"Abaixo do peso","Não","Não","Salvador","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Fundamental completo ou equivalente",19559.0883269517
+"Eutrofia","Não","Sim","Aracaju","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Fundamental completo ou equivalente",5174.69322698217
+"Abaixo do peso","Não","Não","Rio Branco","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental completo ou equivalente",14109.2839675634
+"Sobrepeso","Sim","Sim","Macapá","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental completo ou equivalente",12033.0574909541
+"Sobrepeso","Sim","Sim","Teresina","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental completo ou equivalente",19670.0312116872
+"Eutrofia","Não","Não","João Pessoa","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental completo ou equivalente",32820.9318807289
+"Eutrofia","Não","Sim","Teresina","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental completo ou equivalente",14013.2925240206
+"Abaixo do peso","Não","Não","João Pessoa","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental completo ou equivalente",30263.1155148715
+"Obesidade grau I","Sim","Sim","Maceió","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental completo ou equivalente",14567.2071515075
+"Sobrepeso","Sim","Sim","Vitória","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Fundamental completo ou equivalente",21483.3236055543
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",15228.286864959
+"Sobrepeso","Sim","Sim","Goiânia","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",3390.24079630132
+"Abaixo do peso","Não","Não","São Luís","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",5940.1499423169
+"Sobrepeso","Sim","Sim","Fortaleza","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",12063.2130604247
+"Obesidade grau I","Sim","Sim","Fortaleza","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",7584.00092266561
+"Obesidade grau I","Sim","Sim","Aracaju","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",103632.402764314
+"Abaixo do peso","Não","Não","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",20932.5516074862
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",50348.1753822584
+"Eutrofia","Não","Sim","São Luís","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",22600.4203564352
+"Sobrepeso","Sim","Sim","João Pessoa","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",4215.67918470249
+"Sobrepeso","Sim","Sim","Belo Horizonte","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",31730.6331751018
+"Abaixo do peso","Não","Não","Vitória","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",14306.6147376265
+"Abaixo do peso","Não","Não","Curitiba","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Fundamental completo ou equivalente",3052.04474866167
+"Obesidade grau I","Sim","Sim","São Luís","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental completo ou equivalente",4651.05102987342
+"Eutrofia","Não","Sim","Recife","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental completo ou equivalente",50428.2069048828
+"Eutrofia","Não","Sim","Goiânia","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Fundamental completo ou equivalente",144718.464006036
+"Abaixo do peso","Não","Não","Porto Velho","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Fundamental completo ou equivalente",13337.7802863338
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Fundamental completo ou equivalente",163059.818403422
+"Obesidade grau I","Sim","Sim","Curitiba","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Fundamental completo ou equivalente",13120.1360255364
+"Abaixo do peso","Não","Não","Manaus","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental completo ou equivalente",6041.24973288647
+"Sobrepeso","Sim","Sim","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental completo ou equivalente",11480.4623972235
+"Eutrofia","Não","Sim","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Fundamental completo ou equivalente",27306.7287843538
+"Abaixo do peso","Não","Não","Manaus","25 a 39 anos","1 até 2 SM","Rural","Mulher","Fundamental completo ou equivalente",486.178186488106
+"Abaixo do peso","Não","Não","Manaus","18 a 24 anos","Até 1/2 SM","Urbano","Homem","Médio incompleto ou equivalente",89813.9102679139
+"Sobrepeso","Sim","Sim","Natal","40 a 59 anos","Até 1/2 SM","Urbano","Homem","Médio incompleto ou equivalente",7469.37827592492
+"Abaixo do peso","Não","Não","Manaus","18 a 24 anos","1/2 até 1 SM","Urbano","Homem","Médio incompleto ou equivalente",10018.1036990198
+"Abaixo do peso","Não","Não","Boa Vista","18 a 24 anos","1/2 até 1 SM","Urbano","Homem","Médio incompleto ou equivalente",10330.1535977882
+"Sobrepeso","Sim","Sim","Fortaleza","18 a 24 anos","1/2 até 1 SM","Urbano","Homem","Médio incompleto ou equivalente",9298.84076837729
+"Abaixo do peso","Não","Não","Goiânia","18 a 24 anos","1/2 até 1 SM","Urbano","Homem","Médio incompleto ou equivalente",21558.405573984
+"Abaixo do peso","Não","Não","Maceió","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio incompleto ou equivalente",43107.3709549516
+"Sobrepeso","Sim","Sim","Belo Horizonte","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio incompleto ou equivalente",14941.2731105946
+"Eutrofia","Não","Sim","Porto Alegre","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio incompleto ou equivalente",11738.2919808657
+"Eutrofia","Não","Sim","Goiânia","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio incompleto ou equivalente",3516.34477976162
+"Abaixo do peso","Não","Não","São Paulo","18 a 24 anos","1 até 2 SM","Urbano","Homem","Médio incompleto ou equivalente",21901.7332231584
+"Abaixo do peso","Não","Não","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio incompleto ou equivalente",60605.2265062203
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio incompleto ou equivalente",3373.500718939
+"Eutrofia","Não","Sim","Fortaleza","60 anos ou mais","1 até 2 SM","Urbano","Homem","Médio incompleto ou equivalente",14016.908017367
+"Obesidade grau III","Sim","Sim","Belo Horizonte","18 a 24 anos","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",36719.6125705338
+"Eutrofia","Não","Sim","Porto Alegre","18 a 24 anos","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",8255.4062724494
+"Abaixo do peso","Não","Não","Porto Velho","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",18385.4057354848
+"Obesidade grau I","Sim","Sim","Natal","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",19855.5351316683
+"Eutrofia","Não","Sim","São Paulo","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",146433.249717218
+"Eutrofia","Não","Sim","Florianópolis","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",2373.00649877224
+"Abaixo do peso","Não","Não","Palmas","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",3838.013871325
+"Eutrofia","Não","Sim","Goiânia","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",59582.3915257568
+"Obesidade grau III","Sim","Sim","João Pessoa","60 anos ou mais","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",40428.8577336382
+"Eutrofia","Não","Sim","João Pessoa","60 anos ou mais","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",19902.0447538879
+"Abaixo do peso","Não","Não","Porto Alegre","60 anos ou mais","2 até 3 SM","Urbano","Homem","Médio incompleto ou equivalente",19299.6100786577
+"Abaixo do peso","Não","Não","Rio de Janeiro","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Médio incompleto ou equivalente",9501.85627734106
+"Abaixo do peso","Não","Não","Campo Grande","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Médio incompleto ou equivalente",10650.3739715232
+"Abaixo do peso","Não","Não","Goiânia","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio incompleto ou equivalente",39721.5943505045
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio incompleto ou equivalente",2136.58139669279
+"Abaixo do peso","Não","Não","Belém","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio incompleto ou equivalente",15955.6409567621
+"Eutrofia","Não","Sim","Curitiba","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio incompleto ou equivalente",25482.6216965689
+"Eutrofia","Não","Sim","Florianópolis","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio incompleto ou equivalente",974.753054092517
+"Sobrepeso","Sim","Sim","Manaus","18 a 24 anos","Até 1/2 SM","Rural","Homem","Médio incompleto ou equivalente",1236.88914294103
+"Abaixo do peso","Não","Não","São Luís","18 a 24 anos","1/2 até 1 SM","Rural","Homem","Médio incompleto ou equivalente",3914.60951974456
+"Abaixo do peso","Não","Não","Belém","25 a 39 anos","1/2 até 1 SM","Rural","Homem","Médio incompleto ou equivalente",2982.29408527482
+"Abaixo do peso","Não","Não","Goiânia","25 a 39 anos","1/2 até 1 SM","Rural","Homem","Médio incompleto ou equivalente",756.901453917005
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","1/2 até 1 SM","Rural","Homem","Médio incompleto ou equivalente",1348.13370632809
+"Eutrofia","Não","Sim","Rio Branco","40 a 59 anos","Mais de 3 SM","Rural","Homem","Médio incompleto ou equivalente",1710.27325722294
+"Eutrofia","Não","Sim","Maceió","18 a 24 anos","Até 1/2 SM","Urbano","Mulher","Médio incompleto ou equivalente",24770.9410987891
+"Eutrofia","Não","Sim","Rio Branco","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio incompleto ou equivalente",3570.47777476939
+"Eutrofia","Não","Sim","São Luís","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio incompleto ou equivalente",16087.5171694256
+"Sobrepeso","Sim","Sim","Fortaleza","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio incompleto ou equivalente",8224.99512794297
+"Eutrofia","Não","Sim","Salvador","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio incompleto ou equivalente",19300.0096620314
+"Obesidade grau III","Sim","Sim","Boa Vista","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Médio incompleto ou equivalente",10393.1180601078
+"Abaixo do peso","Não","Não","Teresina","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Médio incompleto ou equivalente",13241.6679526677
+"Sobrepeso","Sim","Sim","Belo Horizonte","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Médio incompleto ou equivalente",80879.5197719676
+"Sobrepeso","Sim","Sim","Fortaleza","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio incompleto ou equivalente",8224.99512794297
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio incompleto ou equivalente",152448.673601383
+"Eutrofia","Não","Sim","Curitiba","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio incompleto ou equivalente",59811.889766758
+"Eutrofia","Não","Sim","Belém","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio incompleto ou equivalente",11481.3328405862
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio incompleto ou equivalente",48546.2234653596
+"Eutrofia","Não","Sim","Palmas","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Médio incompleto ou equivalente",9341.46171400004
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","1/2 até 1 SM","Urbano","Mulher","Médio incompleto ou equivalente",88351.0919206035
+"Abaixo do peso","Não","Não","São Luís","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",86294.5579542317
+"Eutrofia","Não","Sim","Recife","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",25667.5677097577
+"Abaixo do peso","Não","Não","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",77437.8270999023
+"Abaixo do peso","Não","Não","Belo Horizonte","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",8799.26601355127
+"Sobrepeso","Sim","Sim","Manaus","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",3109.51766018443
+"Sobrepeso","Sim","Sim","Natal","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",24235.5815874062
+"Abaixo do peso","Não","Não","Maceió","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",36418.0178787688
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",81050.3766198796
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",134676.699838986
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",24123.1417537214
+"Abaixo do peso","Não","Não","Aracaju","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",6077.56432826182
+"Obesidade grau I","Sim","Sim","Salvador","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",14120.9863281772
+"Obesidade grau III","Sim","Sim","Rio de Janeiro","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",53850.1529448593
+"Eutrofia","Não","Sim","São Paulo","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio incompleto ou equivalente",94855.8342447659
+"Eutrofia","Não","Sim","Belo Horizonte","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Médio incompleto ou equivalente",21608.1684906498
+"Eutrofia","Não","Sim","Manaus","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio incompleto ou equivalente",66081.4093915577
+"Obesidade grau III","Sim","Sim","Fortaleza","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio incompleto ou equivalente",6841.70750220158
+"Eutrofia","Não","Sim","Salvador","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio incompleto ou equivalente",4448.9780482371
+"Abaixo do peso","Não","Não","Belo Horizonte","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio incompleto ou equivalente",24340.5523751133
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio incompleto ou equivalente",7553.98212528012
+"Abaixo do peso","Não","Não","Florianópolis","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio incompleto ou equivalente",25237.4111678386
+"Sobrepeso","Sim","Sim","Macapá","40 a 59 anos","Até 1/2 SM","Rural","Mulher","Médio incompleto ou equivalente",2397.78820653146
+"Eutrofia","Não","Sim","Macapá","18 a 24 anos","1/2 até 1 SM","Rural","Mulher","Médio incompleto ou equivalente",2825.33027216597
+"Eutrofia","Não","Sim","Florianópolis","18 a 24 anos","1/2 até 1 SM","Rural","Mulher","Médio incompleto ou equivalente",2889.96380973229
+"Eutrofia","Não","Sim","Belém","25 a 39 anos","1/2 até 1 SM","Rural","Mulher","Médio incompleto ou equivalente",898.194760041554
+"Abaixo do peso","Não","Não","Florianópolis","40 a 59 anos","1 até 2 SM","Rural","Mulher","Médio incompleto ou equivalente",1448.91123927821
+"Abaixo do peso","Não","Não","Fortaleza","18 a 24 anos","Até 1/2 SM","Urbano","Homem","Médio completo ou equivalente",40359.9192873908
+"Abaixo do peso","Não","Não","Vitória","18 a 24 anos","Até 1/2 SM","Urbano","Homem","Médio completo ou equivalente",25038.2229229926
+"Sobrepeso","Sim","Sim","Boa Vista","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Médio completo ou equivalente",8549.49867139347
+"Abaixo do peso","Não","Não","São Luís","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Médio completo ou equivalente",83429.5562128794
+"Abaixo do peso","Não","Não","Fortaleza","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Médio completo ou equivalente",16647.7953736283
+"Abaixo do peso","Não","Não","Belo Horizonte","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Médio completo ou equivalente",4281.81904144668
+"Eutrofia","Não","Sim","Vitória","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Médio completo ou equivalente",13702.1937514772
+"Eutrofia","Não","Sim","Porto Velho","40 a 59 anos","Até 1/2 SM","Urbano","Homem","Médio completo ou equivalente",62730.3051916864
+"Abaixo do peso","Não","Não","Belo Horizonte","18 a 24 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",113801.102552992
+"Abaixo do peso","Não","Não","Rio de Janeiro","18 a 24 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",108231.903950909
+"Abaixo do peso","Não","Não","Porto Velho","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",20004.1670924698
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",48051.5479497518
+"Abaixo do peso","Não","Não","Manaus","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",72077.3219246338
+"Sobrepeso","Sim","Sim","São Luís","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",12454.2158871266
+"Eutrofia","Não","Sim","São Luís","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",33371.822485159
+"Eutrofia","Não","Sim","Teresina","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",5754.47338849796
+"Sobrepeso","Sim","Sim","Fortaleza","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",42254.3674660333
+"Eutrofia","Não","Sim","Fortaleza","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",8323.8976868081
+"Eutrofia","Não","Sim","Salvador","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",34764.4545435583
+"Eutrofia","Não","Sim","Rio de Janeiro","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",59716.9900248021
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",166681.382548539
+"Eutrofia","Não","Sim","Curitiba","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",5846.20600348658
+"Eutrofia","Não","Sim","Campo Grande","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",15001.8990748949
+"Eutrofia","Não","Sim","Porto Velho","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",4963.70451831847
+"Sobrepeso","Sim","Sim","Manaus","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",25986.2473166288
+"Abaixo do peso","Não","Não","Natal","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",4979.58551727981
+"Sobrepeso","Sim","Sim","Recife","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",8516.2756148299
+"Eutrofia","Não","Sim","Maceió","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",14058.6283273791
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",95337.620982308
+"Sobrepeso","Sim","Sim","Goiânia","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Médio completo ou equivalente",128834.492481615
+"Eutrofia","Não","Sim","Porto Velho","18 a 24 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",13980.8498250843
+"Eutrofia","Não","Sim","Boa Vista","18 a 24 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",8953.27353620649
+"Abaixo do peso","Não","Não","São Luís","18 a 24 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",30096.2589735246
+"Abaixo do peso","Não","Não","Teresina","18 a 24 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",19046.0313861163
+"Abaixo do peso","Não","Não","Aracaju","18 a 24 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",23263.2865301874
+"Sobrepeso","Sim","Sim","São Paulo","18 a 24 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",57280.5979361314
+"Abaixo do peso","Não","Não","São Paulo","18 a 24 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",575785.607139252
+"Eutrofia","Não","Sim","Goiânia","18 a 24 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",83910.3602023335
+"Abaixo do peso","Não","Não","Brasília","18 a 24 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",131357.327797752
+"Sobrepeso","Sim","Sim","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",11055.4284165514
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",49554.8557104849
+"Abaixo do peso","Não","Não","Belém","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",11552.4933167693
+"Eutrofia","Não","Sim","São Luís","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",12454.2158871266
+"Abaixo do peso","Não","Não","São Luís","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",10822.8027478116
+"Abaixo do peso","Não","Não","Fortaleza","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",63381.5511990499
+"Eutrofia","Não","Sim","Natal","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",6573.68536992594
+"Abaixo do peso","Não","Não","Natal","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",40892.4266186713
+"Eutrofia","Não","Sim","João Pessoa","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",8581.75750369736
+"Abaixo do peso","Não","Não","Maceió","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",18892.0083322687
+"Sobrepeso","Sim","Sim","Salvador","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",34881.6858864369
+"Eutrofia","Não","Sim","Salvador","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",34012.128776944
+"Sobrepeso","Sim","Sim","Rio de Janeiro","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",171109.305546003
+"Eutrofia","Não","Sim","Rio de Janeiro","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",67881.8748980979
+"Eutrofia","Não","Sim","São Paulo","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",111120.921699022
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",310289.402959456
+"Eutrofia","Não","Sim","Curitiba","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",39464.8388573159
+"Abaixo do peso","Não","Não","Curitiba","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",18977.1712198443
+"Eutrofia","Não","Sim","Cuiabá","25 a 39 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",25796.1818901519
+"Eutrofia","Não","Sim","Porto Velho","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",15773.9948230742
+"Eutrofia","Não","Sim","Manaus","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",59241.4880599576
+"Eutrofia","Não","Sim","Boa Vista","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",14670.3042318233
+"Eutrofia","Não","Sim","Macapá","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",5499.58255861087
+"Abaixo do peso","Não","Não","Teresina","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",9016.0348600787
+"Sobrepeso","Sim","Sim","Fortaleza","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",46568.2205481706
+"Eutrofia","Não","Sim","Fortaleza","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",29286.43930961
+"Eutrofia","Não","Sim","Natal","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",17035.3112072914
+"Abaixo do peso","Não","Não","Natal","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",23389.4548413802
+"Eutrofia","Não","Sim","Recife","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",8516.2756148299
+"Sobrepeso","Sim","Sim","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",12880.9582028277
+"Eutrofia","Não","Sim","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",8587.30546855182
+"Sobrepeso","Não","Sim","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",8587.30546855182
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",109541.713081739
+"Abaixo do peso","Não","Não","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",34907.8745525445
+"Sobrepeso","Sim","Sim","Rio de Janeiro","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",59021.8135713773
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",72899.2560688678
+"Sobrepeso","Sim","Sim","São Paulo","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",40673.3448030786
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",9034.18898830222
+"Sobrepeso","Sim","Sim","Curitiba","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",5015.82747535653
+"Sobrepeso","Sim","Sim","Porto Alegre","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",39862.4272739974
+"Eutrofia","Não","Sim","Porto Alegre","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",28301.0359269899
+"Abaixo do peso","Não","Não","Campo Grande","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",19306.60778567
+"Eutrofia","Não","Sim","Cuiabá","40 a 59 anos","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",33198.2480107781
+"Abaixo do peso","Não","Não","Manaus","60 anos ou mais","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",13974.3183243776
+"Abaixo do peso","Não","Não","João Pessoa","60 anos ou mais","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",27966.4593145983
+"Abaixo do peso","Não","Não","Vitória","60 anos ou mais","1 até 2 SM","Urbano","Homem","Médio completo ou equivalente",17024.0562094381
+"Abaixo do peso","Não","Não","Rio Branco","18 a 24 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",17682.0253908847
+"Eutrofia","Não","Sim","Teresina","18 a 24 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",11035.9242452349
+"Abaixo do peso","Não","Não","Brasília","18 a 24 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",19538.8395813882
+"Sobrepeso","Sim","Sim","Manaus","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",74332.2835657152
+"Eutrofia","Não","Sim","Macapá","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",7067.35482101076
+"Eutrofia","Não","Sim","Salvador","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",28939.3762462828
+"Eutrofia","Não","Sim","São Paulo","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",21770.2391886139
+"Eutrofia","Não","Sim","Curitiba","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",82489.6950853758
+"Eutrofia","Não","Sim","Campo Grande","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",15001.8990748949
+"Obesidade grau I","Sim","Sim","Cuiabá","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",14699.479197203
+"Abaixo do peso","Não","Não","Cuiabá","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",9799.65279813131
+"Abaixo do peso","Não","Não","Goiânia","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",7136.91458960408
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",81405.4162816802
+"Abaixo do peso","Não","Não","Porto Velho","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",7445.55677748292
+"Abaixo do peso","Não","Não","Teresina","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",2468.56215048037
+"Sobrepeso","Sim","Sim","Recife","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",74837.9747045292
+"Abaixo do peso","Não","Não","Maceió","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",8753.81886148178
+"Abaixo do peso","Não","Não","Aracaju","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",5506.20226503308
+"Sobrepeso","Sim","Sim","Salvador","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",29181.142421772
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",19652.8812144412
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",10890.1711477693
+"Eutrofia","Não","Sim","Curitiba","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",24422.5614233247
+"Abaixo do peso","Não","Não","Curitiba","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",86143.148626968
+"Sobrepeso","Sim","Sim","Porto Alegre","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",4599.78016826999
+"Eutrofia","Não","Sim","Goiânia","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",22291.5954418782
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",19163.9245771244
+"Abaixo do peso","Não","Não","Belém","60 anos ou mais","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",23933.4614351481
+"Eutrofia","Não","Sim","Rio de Janeiro","60 anos ou mais","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",142800.65888288
+"Sobrepeso","Sim","Sim","Brasília","60 anos ou mais","2 até 3 SM","Urbano","Homem","Médio completo ou equivalente",26569.8012453826
+"Abaixo do peso","Não","Não","Boa Vista","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",17269.7712691641
+"Abaixo do peso","Não","Não","Teresina","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",29264.2673395078
+"Sobrepeso","Sim","Sim","Fortaleza","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",40230.2614185997
+"Abaixo do peso","Não","Não","Porto Alegre","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",28385.0061073204
+"Sobrepeso","Sim","Sim","Campo Grande","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",6434.29534458969
+"Eutrofia","Não","Sim","João Pessoa","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",8075.15321300197
+"Abaixo do peso","Não","Não","Aracaju","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",38857.2884053162
+"Abaixo do peso","Não","Não","Rio de Janeiro","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",37873.0823627331
+"Eutrofia","Não","Sim","Belém","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",8331.57411760909
+"Eutrofia","Não","Sim","Recife","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",25175.3459973068
+"Abaixo do peso","Não","Não","Recife","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",82875.320172612
+"Abaixo do peso","Não","Não","Aracaju","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",11012.4045300662
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",31234.2329498052
+"Obesidade grau I","Sim","Sim","Vitória","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",4230.36045751426
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",224602.946342898
+"Eutrofia","Não","Sim","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",50818.4379983809
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",21243.0324784315
+"Abaixo do peso","Não","Não","Brasília","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",4477.53980874113
+"Abaixo do peso","Não","Não","João Pessoa","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",20214.4288668191
+"Sobrepeso","Sim","Sim","Salvador","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",8462.59861042552
+"Eutrofia","Não","Sim","Salvador","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",74199.5011365475
+"Abaixo do peso","Não","Não","Belo Horizonte","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",14995.5714761995
+"Eutrofia","Não","Sim","Rio de Janeiro","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",15032.7667165725
+"Abaixo do peso","Não","Não","São Paulo","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",447842.575300183
+"Eutrofia","Não","Sim","Curitiba","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",15590.3960770023
+"Abaixo do peso","Não","Não","Curitiba","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",10747.3393920165
+"Abaixo do peso","Não","Não","Florianópolis","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Médio completo ou equivalente",974.753054092517
+"Eutrofia","Não","Sim","Brasília","25 a 39 anos","Até 1/2 SM","Rural","Homem","Médio completo ou equivalente",2145.77842042274
+"Abaixo do peso","Não","Não","Teresina","18 a 24 anos","1/2 até 1 SM","Rural","Homem","Médio completo ou equivalente",4633.42076398345
+"Abaixo do peso","Não","Não","Cuiabá","18 a 24 anos","1/2 até 1 SM","Rural","Homem","Médio completo ou equivalente",983.882620836803
+"Sobrepeso","Sim","Sim","Belém","25 a 39 anos","1/2 até 1 SM","Rural","Homem","Médio completo ou equivalente",1988.19605684583
+"Obesidade grau I","Sim","Sim","Campo Grande","25 a 39 anos","1/2 até 1 SM","Rural","Homem","Médio completo ou equivalente",434.523865326566
+"Abaixo do peso","Não","Não","Goiânia","25 a 39 anos","1/2 até 1 SM","Rural","Homem","Médio completo ou equivalente",737.363702105864
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","1/2 até 1 SM","Rural","Homem","Médio completo ou equivalente",7532.77498677072
+"Eutrofia","Não","Sim","Florianópolis","18 a 24 anos","1 até 2 SM","Rural","Homem","Médio completo ou equivalente",1969.27373718107
+"Obesidade grau III","Sim","Sim","Goiânia","25 a 39 anos","1 até 2 SM","Rural","Homem","Médio completo ou equivalente",378.450726952432
+"Abaixo do peso","Não","Não","Palmas","40 a 59 anos","1 até 2 SM","Rural","Homem","Médio completo ou equivalente",627.656338508329
+"Eutrofia","Não","Sim","Boa Vista","60 anos ou mais","1 até 2 SM","Rural","Homem","Médio completo ou equivalente",294.116322199184
+"Eutrofia","Não","Sim","Belém","60 anos ou mais","1 até 2 SM","Rural","Homem","Médio completo ou equivalente",1530.68945784787
+"Abaixo do peso","Não","Não","Rio Branco","18 a 24 anos","2 até 3 SM","Rural","Homem","Médio completo ou equivalente",2408.59155503951
+"Sobrepeso","Sim","Sim","Cuiabá","25 a 39 anos","2 até 3 SM","Rural","Homem","Médio completo ou equivalente",674.945280107127
+"Abaixo do peso","Não","Não","Goiânia","25 a 39 anos","2 até 3 SM","Rural","Homem","Médio completo ou equivalente",491.575801395815
+"Abaixo do peso","Não","Não","Cuiabá","40 a 59 anos","2 até 3 SM","Rural","Homem","Médio completo ou equivalente",868.616948745359
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","Mais de 3 SM","Rural","Homem","Médio completo ou equivalente",2145.77842042274
+"Abaixo do peso","Não","Não","Cuiabá","40 a 59 anos","Mais de 3 SM","Rural","Homem","Médio completo ou equivalente",289.53898291512
+"Eutrofia","Não","Sim","Goiânia","40 a 59 anos","Mais de 3 SM","Rural","Homem","Médio completo ou equivalente",1054.38442017585
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","Mais de 3 SM","Rural","Homem","Médio completo ou equivalente",920.499068178981
+"Sobrepeso","Sim","Sim","Porto Velho","60 anos ou mais","Mais de 3 SM","Rural","Homem","Médio completo ou equivalente",502.896188554596
+"Abaixo do peso","Não","Não","Porto Velho","60 anos ou mais","Mais de 3 SM","Rural","Homem","Médio completo ou equivalente",1330.10396611068
+"Eutrofia","Não","Sim","Belém","18 a 24 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",29873.0254987809
+"Eutrofia","Não","Sim","São Luís","18 a 24 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",19333.3128364694
+"Abaixo do peso","Não","Não","Fortaleza","18 a 24 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",72842.3300573217
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",19468.0712565612
+"Obesidade grau I","Sim","Sim","Boa Vista","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",8932.29111931884
+"Eutrofia","Não","Sim","Belém","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",28087.8783615992
+"Abaixo do peso","Não","Não","Belém","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",12451.7266860935
+"Sobrepeso","Sim","Sim","Macapá","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",1198.23926324498
+"Eutrofia","Não","Sim","Palmas","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",35738.1499444332
+"Eutrofia","Não","Sim","São Luís","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",3604.22498906145
+"Abaixo do peso","Não","Não","Natal","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",95717.3563059129
+"Eutrofia","Não","Sim","Recife","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",9570.18486489559
+"Eutrofia","Não","Não","Maceió","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",27707.6295198977
+"Abaixo do peso","Não","Não","Salvador","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",20926.1591470717
+"Abaixo do peso","Não","Não","Rio de Janeiro","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",71267.2329584816
+"Sobrepeso","Sim","Sim","Campo Grande","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",8747.79509904258
+"Abaixo do peso","Não","Não","Goiânia","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",25412.026432793
+"Eutrofia","Não","Sim","Manaus","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",6596.23427154923
+"Sobrepeso","Sim","Sim","Maceió","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",9070.49320548839
+"Sobrepeso","Sim","Sim","Curitiba","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",5197.27786866979
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",22820.0091124605
+"Sobrepeso","Sim","Sim","Salvador","60 anos ou mais","Até 1/2 SM","Urbano","Mulher","Médio completo ou equivalente",21181.4794922594
+"Abaixo do peso","Não","Não","Macapá","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",4284.95901329925
+"Eutrofia","Não","Sim","Teresina","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",70340.9411774251
+"Abaixo do peso","Não","Não","Rio de Janeiro","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",50725.1086887165
+"Abaixo do peso","Não","Não","Brasília","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",235472.621952888
+"Abaixo do peso","Não","Não","Porto Velho","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",9643.38647382539
+"Sobrepeso","Sim","Sim","Rio Branco","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",14109.2839675634
+"Eutrofia","Não","Sim","Rio Branco","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",14109.2839675634
+"Abaixo do peso","Não","Não","Belém","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",11138.1950845459
+"Eutrofia","Não","Sim","Macapá","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",8576.64743436447
+"Abaixo do peso","Não","Não","São Luís","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",7208.44997812291
+"Obesidade grau I","Sim","Sim","Teresina","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",19670.0312116872
+"Abaixo do peso","Não","Não","Fortaleza","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",40739.03140265
+"Abaixo do peso","Não","Não","Natal","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",5595.82100277955
+"Eutrofia","Não","Sim","João Pessoa","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",8273.99649785538
+"Sobrepeso","Sim","Sim","Maceió","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",9837.12465015892
+"Sobrepeso","Sim","Sim","Rio de Janeiro","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",42554.0711179865
+"Eutrofia","Não","Sim","Curitiba","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",38049.5415249355
+"Eutrofia","Não","Sim","Cuiabá","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",18636.9573611434
+"Sobrepeso","Sim","Sim","Brasília","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",2400.98839798472
+"Sobrepeso","Sim","Sim","Porto Velho","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",10286.5386684243
+"Eutrofia","Não","Sim","Porto Velho","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",2571.63466710876
+"Sobrepeso","Sim","Sim","Rio Branco","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",9876.66484307583
+"Sobrepeso","Sim","Sim","Manaus","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",14742.4158686177
+"Eutrofia","Não","Sim","Manaus","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",134372.531741288
+"Abaixo do peso","Não","Não","Manaus","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",64076.7482104597
+"Eutrofia","Não","Sim","Boa Vista","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",3800.25269436438
+"Abaixo do peso","Não","Não","São Luís","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",13293.3552992257
+"Abaixo do peso","Não","Não","João Pessoa","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",15463.4692574243
+"Abaixo do peso","Não","Não","Recife","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",91627.898709297
+"Obesidade grau I","Sim","Sim","Salvador","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",60810.4316898342
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",146364.956014588
+"Abaixo do peso","Não","Não","Goiânia","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",11549.0032518745
+"Abaixo do peso","Não","Não","Brasília","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Médio completo ou equivalente",17737.9454585554
+"Abaixo do peso","Não","Não","Porto Velho","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",126043.701792018
+"Sobrepeso","Sim","Sim","Fortaleza","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",109263.495085983
+"Obesidade grau I","Sim","Sim","Fortaleza","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",115616.678147119
+"Eutrofia","Não","Sim","Rio de Janeiro","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",177888.371010215
+"Abaixo do peso","Não","Não","Rio de Janeiro","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",48816.2195071558
+"Abaixo do peso","Não","Não","Goiânia","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",44790.395961867
+"Eutrofia","Não","Sim","Brasília","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",19252.9909362206
+"Abaixo do peso","Não","Não","Brasília","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",22125.6592822115
+"Sobrepeso","Sim","Sim","Rio Branco","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",3570.47777476939
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",46328.3120364895
+"Abaixo do peso","Não","Não","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",3576.87158133316
+"Sobrepeso","Sim","Sim","Macapá","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",10220.8555204952
+"Sobrepeso","Sim","Sim","São Luís","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",14416.8999562458
+"Eutrofia","Não","Sim","Fortaleza","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",77305.8730452409
+"Abaixo do peso","Não","Não","João Pessoa","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",11678.340254063
+"Eutrofia","Não","Sim","Maceió","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",15798.4168344185
+"Eutrofia","Não","Sim","Aracaju","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",62894.9118193856
+"Eutrofia","Não","Sim","Belo Horizonte","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",4128.26343999078
+"Abaixo do peso","Não","Não","Belo Horizonte","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",18093.6183300529
+"Abaixo do peso","Não","Não","Rio de Janeiro","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",54603.5663026188
+"Sobrepeso","Sim","Sim","Curitiba","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",29905.9448833731
+"Sobrepeso","Sim","Sim","Florianópolis","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",6573.1485985976
+"Abaixo do peso","Não","Não","Cuiabá","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",18636.9573611434
+"Abaixo do peso","Não","Não","Porto Velho","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",108332.682383734
+"Eutrofia","Não","Sim","Manaus","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",15121.9146097436
+"Abaixo do peso","Não","Não","Manaus","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",5143.77345705796
+"Obesidade grau I","Sim","Sim","Palmas","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",11930.5685758264
+"Abaixo do peso","Não","Não","São Luís","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",3960.0999615446
+"Eutrofia","Não","Sim","Teresina","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",14013.2925240206
+"Abaixo do peso","Não","Não","Natal","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",36353.3723811092
+"Sobrepeso","Sim","Sim","Recife","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",10397.9062055292
+"Eutrofia","Não","Sim","Recife","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",75712.456597977
+"Sobrepeso","Sim","Sim","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",13736.3437621301
+"Obesidade grau I","Sim","Sim","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",15452.8022197576
+"Abaixo do peso","Não","Não","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",39394.3492469282
+"Sobrepeso","Sim","Sim","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",10110.3654659004
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",58159.0615951198
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",25660.325602126
+"Abaixo do peso","Não","Não","Rio de Janeiro","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",54549.090213856
+"Obesidade grau I","Sim","Sim","Curitiba","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",35084.2466826218
+"Eutrofia","Não","Sim","Curitiba","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",35084.2466826218
+"Abaixo do peso","Não","Não","Curitiba","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",52480.5441021239
+"Obesidade grau III","Sim","Sim","Porto Alegre","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",18894.494219726
+"Eutrofia","Não","Sim","Porto Alegre","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",4766.17981514536
+"Abaixo do peso","Não","Não","Porto Alegre","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",26699.1643189009
+"Sobrepeso","Sim","Sim","Brasília","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",6641.6203082346
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",8855.4937443236
+"Eutrofia","Não","Sim","Boa Vista","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",9948.92082275993
+"Sobrepeso","Sim","Sim","São Luís","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",4651.05102987342
+"Eutrofia","Não","Sim","Recife","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",25214.1034524351
+"Eutrofia","Não","Sim","Salvador","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",12438.1718777471
+"Eutrofia","Não","Sim","Rio de Janeiro","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",9552.78553322327
+"Abaixo do peso","Não","Não","São Paulo","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",18196.0823879966
+"Sobrepeso","Sim","Sim","Curitiba","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",43647.8252110786
+"Obesidade grau III","Sim","Sim","Porto Alegre","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",32809.0848081629
+"Abaixo do peso","Não","Não","Porto Alegre","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",2798.88711814204
+"Eutrofia","Não","Sim","Brasília","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Médio completo ou equivalente",12926.0198920358
+"Eutrofia","Não","Sim","Curitiba","18 a 24 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",68033.4599734452
+"Abaixo do peso","Não","Não","Macapá","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",12033.0574909541
+"Abaixo do peso","Não","Não","João Pessoa","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",7785.56016937532
+"Abaixo do peso","Não","Não","Maceió","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",6071.49956215849
+"Abaixo do peso","Não","Não","Salvador","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",49188.5667237503
+"Abaixo do peso","Não","Não","Belo Horizonte","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",11042.4858738965
+"Sobrepeso","Sim","Sim","Florianópolis","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",16813.9126818398
+"Abaixo do peso","Não","Não","Porto Alegre","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",22649.674046711
+"Eutrofia","Não","Sim","Brasília","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",4801.97679596945
+"Eutrofia","Não","Sim","Manaus","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",17950.8763319116
+"Abaixo do peso","Não","Não","Manaus","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",3109.51766018443
+"Eutrofia","Não","Sim","Boa Vista","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",13174.9064744264
+"Abaixo do peso","Não","Não","Macapá","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",9424.31898038751
+"Eutrofia","Não","Sim","Palmas","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",4051.53843986438
+"Abaixo do peso","Não","Não","Teresina","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",16239.5652497076
+"Sobrepeso","Sim","Sim","Salvador","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",46514.7346769847
+"Eutrofia","Não","Sim","Salvador","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",20073.2245793208
+"Abaixo do peso","Não","Não","Salvador","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",12863.5545521501
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",7582.77409942261
+"Sobrepeso","Sim","Sim","Rio de Janeiro","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",6991.07802755397
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",91735.4415449129
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",294090.095319762
+"Abaixo do peso","Não","Não","Porto Alegre","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",22704.7012069437
+"Sobrepeso","Sim","Sim","Goiânia","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",82317.0909447924
+"Eutrofia","Não","Sim","São Luís","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",4651.05102987342
+"Abaixo do peso","Não","Não","Recife","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",80711.2263823023
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",70726.6933353741
+"Obesidade grau I","Sim","Sim","Rio de Janeiro","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",26925.0764724296
+"Eutrofia","Não","Sim","São Paulo","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",37123.5461227447
+"Sobrepeso","Sim","Sim","Campo Grande","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Médio completo ou equivalente",42853.6175417879
+"Abaixo do peso","Não","Não","Manaus","18 a 24 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",9974.52528392357
+"Sobrepeso","Sim","Sim","Rio Branco","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",34790.5949114211
+"Sobrepeso","Sim","Sim","Recife","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",22553.4592501675
+"Abaixo do peso","Não","Não","Recife","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",22553.4592501675
+"Abaixo do peso","Não","Não","Campo Grande","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",15453.6216234341
+"Abaixo do peso","Não","Não","Manaus","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",5143.77345705796
+"Abaixo do peso","Não","Não","Macapá","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",8547.79959814416
+"Eutrofia","Não","Sim","Fortaleza","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",29811.2433082346
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",56227.1886252724
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",69455.9806439931
+"Sobrepeso","Sim","Sim","Florianópolis","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",3164.40461153522
+"Eutrofia","Não","Sim","Florianópolis","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",9091.33031590921
+"Eutrofia","Não","Sim","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",13967.515584392
+"Abaixo do peso","Não","Não","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",13967.515584392
+"Abaixo do peso","Não","Não","Campo Grande","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",4033.02889973995
+"Abaixo do peso","Não","Não","Brasília","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",50147.6524857475
+"Abaixo do peso","Não","Não","São Luís","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",33991.7664241793
+"Obesidade grau I","Sim","Sim","Teresina","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",16858.81498712
+"Eutrofia","Não","Sim","Teresina","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",9536.50758980957
+"Abaixo do peso","Não","Não","Teresina","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",8429.40749356002
+"Abaixo do peso","Não","Não","João Pessoa","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",23342.6891953148
+"Abaixo do peso","Não","Não","Salvador","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",94160.1766168371
+"Obesidade grau I","Sim","Sim","Belo Horizonte","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",24584.8252966584
+"Abaixo do peso","Não","Não","Vitória","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",7212.11918562
+"Eutrofia","Não","Sim","Rio de Janeiro","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",82874.9900817449
+"Abaixo do peso","Não","Não","Rio de Janeiro","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",9552.78553322327
+"Sobrepeso","Sim","Sim","São Paulo","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",185967.187427958
+"Eutrofia","Não","Sim","São Paulo","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",88060.3680875014
+"Abaixo do peso","Não","Não","São Paulo","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",75843.564143289
+"Eutrofia","Não","Sim","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",11095.5856737096
+"Abaixo do peso","Não","Não","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",3126.57857819842
+"Eutrofia","Não","Sim","Cuiabá","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",49796.9615625701
+"Eutrofia","Não","Sim","Brasília","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Médio completo ou equivalente",60574.1073708501
+"Eutrofia","Não","Sim","Palmas","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Médio completo ou equivalente",779.575589139555
+"Sobrepeso","Sim","Sim","São Luís","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Médio completo ou equivalente",3123.64314128154
+"Eutrofia","Não","Sim","São Luís","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Médio completo ou equivalente",3749.83596122698
+"Obesidade grau I","Sim","Sim","Teresina","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Médio completo ou equivalente",5960.34239449752
+"Eutrofia","Não","Sim","Brasília","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Médio completo ou equivalente",1514.96844109764
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","Até 1/2 SM","Rural","Mulher","Médio completo ou equivalente",14410.1935175136
+"Obesidade grau III","Sim","Sim","São Paulo","40 a 59 anos","Até 1/2 SM","Rural","Mulher","Médio completo ou equivalente",10706.315589429
+"Sobrepeso","Sim","Sim","Brasília","40 a 59 anos","Até 1/2 SM","Rural","Mulher","Médio completo ou equivalente",13287.1715098444
+"Abaixo do peso","Não","Não","Manaus","18 a 24 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",1738.59567630924
+"Eutrofia","Não","Sim","Belém","18 a 24 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",6423.97199087406
+"Sobrepeso","Sim","Sim","Palmas","18 a 24 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",1393.89917760884
+"Eutrofia","Não","Sim","São Paulo","18 a 24 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",4930.14518732045
+"Eutrofia","Não","Sim","Brasília","18 a 24 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",17314.3405755621
+"Obesidade grau I","Sim","Sim","Rio Branco","25 a 39 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",2342.05415059041
+"Sobrepeso","Sim","Sim","Macapá","25 a 39 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",2600.44751018156
+"Eutrofia","Não","Sim","São Paulo","25 a 39 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",5805.60277215276
+"Abaixo do peso","Não","Não","Cuiabá","25 a 39 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",523.389486640042
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",14410.1935175136
+"Eutrofia","Não","Sim","São Luís","40 a 59 anos","1/2 até 1 SM","Rural","Mulher","Médio completo ou equivalente",3457.60197391174
+"Abaixo do peso","Não","Não","São Paulo","18 a 24 anos","1 até 2 SM","Rural","Mulher","Médio completo ou equivalente",8718.96297031292
+"Abaixo do peso","Não","Não","Belém","25 a 39 anos","1 até 2 SM","Rural","Mulher","Médio completo ou equivalente",1796.38952008311
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","2 até 3 SM","Rural","Mulher","Médio completo ou equivalente",671.980388694201
+"Sobrepeso","Sim","Sim","Brasília","40 a 59 anos","Mais de 3 SM","Rural","Mulher","Médio completo ou equivalente",2095.35480745639
+"Eutrofia","Não","Sim","Belo Horizonte","18 a 24 anos","Até 1/2 SM","Urbano","Homem","Superior incompleto ou equivalente",34012.9044954173
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","Até 1/2 SM","Urbano","Homem","Superior incompleto ou equivalente",8291.23821382394
+"Abaixo do peso","Não","Não","Manaus","18 a 24 anos","1/2 até 1 SM","Urbano","Homem","Superior incompleto ou equivalente",13357.4715987029
+"Abaixo do peso","Não","Não","Curitiba","18 a 24 anos","1/2 até 1 SM","Urbano","Homem","Superior incompleto ou equivalente",22929.659514242
+"Abaixo do peso","Não","Não","Brasília","18 a 24 anos","1/2 até 1 SM","Urbano","Homem","Superior incompleto ou equivalente",13522.21574964
+"Eutrofia","Não","Sim","Florianópolis","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Superior incompleto ou equivalente",34878.6517763917
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Homem","Superior incompleto ou equivalente",1854.95875788828
+"Abaixo do peso","Não","Não","Campo Grande","25 a 39 anos","1 até 2 SM","Urbano","Homem","Superior incompleto ou equivalente",27362.1016701169
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","1 até 2 SM","Urbano","Homem","Superior incompleto ou equivalente",55841.3599070257
+"Abaixo do peso","Não","Não","Rio Branco","18 a 24 anos","2 até 3 SM","Urbano","Homem","Superior incompleto ou equivalente",29066.8273930826
+"Eutrofia","Não","Sim","Teresina","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior incompleto ou equivalente",27400.8373967752
+"Sobrepeso","Sim","Sim","Rio de Janeiro","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior incompleto ou equivalente",28864.2542071673
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior incompleto ou equivalente",146433.249717218
+"Eutrofia","Não","Sim","Cuiabá","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior incompleto ou equivalente",9799.65279813131
+"Eutrofia","Não","Sim","Salvador","40 a 59 anos","2 até 3 SM","Urbano","Homem","Superior incompleto ou equivalente",22369.9574768683
+"Abaixo do peso","Não","Não","Brasília","40 a 59 anos","2 até 3 SM","Urbano","Homem","Superior incompleto ou equivalente",4800.8729264609
+"Eutrofia","Não","Sim","Fortaleza","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",41230.8868476915
+"Eutrofia","Não","Sim","Rio de Janeiro","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",34875.9840671503
+"Abaixo do peso","Não","Não","Curitiba","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",9827.31067889311
+"Abaixo do peso","Não","Não","Campo Grande","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",16444.3570004467
+"Abaixo do peso","Não","Não","Brasília","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",29916.7331389258
+"Eutrofia","Não","Sim","Teresina","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",18267.2249311834
+"Eutrofia","Não","Sim","Recife","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",29343.1661340873
+"Abaixo do peso","Não","Não","Recife","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",51534.2439886053
+"Eutrofia","Não","Sim","Curitiba","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",33468.0964165618
+"Abaixo do peso","Não","Não","Porto Alegre","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",75124.9952133336
+"Eutrofia","Não","Sim","Salvador","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",6393.08098356407
+"Eutrofia","Não","Sim","Curitiba","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",35866.1125511493
+"Obesidade grau I","Sim","Sim","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",9433.67864233345
+"Eutrofia","Não","Não","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",9117.41931401381
+"Eutrofia","Não","Sim","João Pessoa","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",20214.4288668191
+"Abaixo do peso","Não","Não","Brasília","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior incompleto ou equivalente",6642.45031134565
+"Abaixo do peso","Não","Não","Porto Velho","18 a 24 anos","Até 1/2 SM","Urbano","Mulher","Superior incompleto ou equivalente",19947.0954327254
+"Obesidade grau I","Sim","Sim","Porto Velho","25 a 39 anos","Até 1/2 SM","Urbano","Mulher","Superior incompleto ou equivalente",11155.9493852816
+"Abaixo do peso","Não","Não","Belém","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Superior incompleto ou equivalente",39830.7006650411
+"Abaixo do peso","Não","Não","São Paulo","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Superior incompleto ou equivalente",31248.1693323531
+"Abaixo do peso","Não","Não","Curitiba","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Superior incompleto ou equivalente",53472.5208937843
+"Sobrepeso","Sim","Sim","João Pessoa","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Superior incompleto ou equivalente",20684.9912446209
+"Obesidade grau I","Sim","Sim","São Paulo","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Superior incompleto ou equivalente",238103.422401434
+"Sobrepeso","Sim","Sim","Boa Vista","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Superior incompleto ou equivalente",20153.7683832292
+"Abaixo do peso","Não","Não","Belo Horizonte","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Superior incompleto ou equivalente",64703.6158175699
+"Abaixo do peso","Não","Não","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior incompleto ou equivalente",69492.4680547401
+"Abaixo do peso","Não","Não","Rio de Janeiro","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior incompleto ou equivalente",33162.9512997429
+"Abaixo do peso","Não","Não","Porto Alegre","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior incompleto ou equivalente",12311.8429647281
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Superior incompleto ou equivalente",17115.006834348
+"Sobrepeso","Sim","Sim","Maceió","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Superior incompleto ou equivalente",58017.7902329431
+"Abaixo do peso","Não","Não","Porto Alegre","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Superior incompleto ou equivalente",12264.2118668036
+"Abaixo do peso","Não","Não","Campo Grande","18 a 24 anos","2 até 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",65076.9197197484
+"Abaixo do peso","Não","Não","Belém","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",6225.86334304674
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",60979.4694405507
+"Sobrepeso","Sim","Sim","Porto Alegre","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",11324.8370233496
+"Eutrofia","Não","Sim","Aracaju","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",28996.6779219585
+"Obesidade grau I","Sim","Sim","Salvador","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",40146.4491586416
+"Eutrofia","Não","Sim","Porto Alegre","60 anos ou mais","2 até 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",16404.5424040815
+"Obesidade grau I","Sim","Sim","Curitiba","18 a 24 anos","Mais de 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",14021.0578334955
+"Abaixo do peso","Não","Não","Salvador","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",14368.4797524437
+"Abaixo do peso","Não","Não","Curitiba","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",18296.6074425366
+"Eutrofia","Não","Sim","Porto Alegre","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",24623.6859294679
+"Sobrepeso","Sim","Sim","Belo Horizonte","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",6641.3968324987
+"Abaixo do peso","Não","Não","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",5324.20032709325
+"Eutrofia","Não","Sim","Campo Grande","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",33559.5853229278
+"Abaixo do peso","Não","Não","Belém","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior incompleto ou equivalente",40556.9564083317
+"Abaixo do peso","Não","Não","Belém","25 a 39 anos","1/2 até 1 SM","Rural","Mulher","Superior incompleto ou equivalente",958.447451143037
+"Abaixo do peso","Não","Não","São Luís","40 a 59 anos","1/2 até 1 SM","Rural","Mulher","Superior incompleto ou equivalente",3457.60197391174
+"Sobrepeso","Sim","Sim","Goiânia","25 a 39 anos","1 até 2 SM","Rural","Mulher","Superior incompleto ou equivalente",473.946794398126
+"Sobrepeso","Sim","Sim","Goiânia","40 a 59 anos","1 até 2 SM","Rural","Mulher","Superior incompleto ou equivalente",655.51642344278
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","Até 1/2 SM","Urbano","Homem","Superior completo",3673.64160273939
+"Eutrofia","Não","Sim","Curitiba","60 anos ou mais","Até 1/2 SM","Urbano","Homem","Superior completo",28190.3252523619
+"Obesidade grau I","Sim","Sim","Manaus","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Superior completo",32127.2871680212
+"Eutrofia","Não","Sim","Belém","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Superior completo",11552.4933167693
+"Abaixo do peso","Não","Não","Fortaleza","25 a 39 anos","1/2 até 1 SM","Urbano","Homem","Superior completo",14728.5041806931
+"Sobrepeso","Sim","Sim","Manaus","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Superior completo",42516.2244816112
+"Eutrofia","Não","Sim","Maceió","40 a 59 anos","1/2 até 1 SM","Urbano","Homem","Superior completo",23837.0707406465
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Homem","Superior completo",34020.0505763305
+"Abaixo do peso","Não","Não","Macapá","25 a 39 anos","1 até 2 SM","Urbano","Homem","Superior completo",12820.0950805372
+"Eutrofia","Não","Sim","Teresina","25 a 39 anos","1 até 2 SM","Urbano","Homem","Superior completo",5120.8164547081
+"Abaixo do peso","Não","Não","Cuiabá","25 a 39 anos","1 até 2 SM","Urbano","Homem","Superior completo",19330.1808529331
+"Sobrepeso","Sim","Sim","Teresina","40 a 59 anos","1 até 2 SM","Urbano","Homem","Superior completo",13853.1565520835
+"Eutrofia","Não","Sim","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Homem","Superior completo",58687.3824655114
+"Abaixo do peso","Não","Não","Belo Horizonte","40 a 59 anos","1 até 2 SM","Urbano","Homem","Superior completo",52147.1324297998
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","1 até 2 SM","Urbano","Homem","Superior completo",10367.8706725308
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","1 até 2 SM","Urbano","Homem","Superior completo",77944.5484558168
+"Sobrepeso","Sim","Sim","Goiânia","40 a 59 anos","1 até 2 SM","Urbano","Homem","Superior completo",9184.8112091312
+"Eutrofia","Não","Sim","Fortaleza","60 anos ou mais","1 até 2 SM","Urbano","Homem","Superior completo",6322.49295049207
+"Obesidade grau I","Sim","Sim","São Luís","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior completo",97667.0815648874
+"Abaixo do peso","Não","Não","Teresina","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior completo",8631.71008275909
+"Eutrofia","Não","Sim","Recife","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior completo",51534.2439886053
+"Sobrepeso","Sim","Sim","Aracaju","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior completo",12835.5263000586
+"Eutrofia","Não","Sim","Vitória","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior completo",4930.70362271066
+"Eutrofia","Não","Sim","São Paulo","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior completo",94871.5085107793
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior completo",84340.0236526901
+"Eutrofia","Não","Sim","Brasília","25 a 39 anos","2 até 3 SM","Urbano","Homem","Superior completo",54270.2775211161
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","2 até 3 SM","Urbano","Homem","Superior completo",57811.3851550274
+"Abaixo do peso","Não","Não","Recife","60 anos ou mais","2 até 3 SM","Urbano","Homem","Superior completo",21168.5731767781
+"Sobrepeso","Sim","Sim","Curitiba","60 anos ou mais","2 até 3 SM","Urbano","Homem","Superior completo",51514.888390516
+"Abaixo do peso","Não","Não","Brasília","60 anos ou mais","2 até 3 SM","Urbano","Homem","Superior completo",6642.45031134565
+"Eutrofia","Não","Sim","São Paulo","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Superior completo",160722.94413022
+"Abaixo do peso","Não","Não","São Paulo","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Superior completo",50953.0109460425
+"Abaixo do peso","Não","Não","Florianópolis","18 a 24 anos","Mais de 3 SM","Urbano","Homem","Superior completo",16475.191892878
+"Abaixo do peso","Não","Não","Manaus","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",25883.8320320321
+"Abaixo do peso","Não","Não","Boa Vista","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",9528.60220475739
+"Abaixo do peso","Não","Não","João Pessoa","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",24605.7044235626
+"Sobrepeso","Sim","Sim","Recife","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",29343.1661340873
+"Abaixo do peso","Não","Não","Maceió","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",27783.337196939
+"Obesidade grau I","Sim","Sim","Aracaju","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",12835.5263000586
+"Obesidade grau I","Sim","Sim","Salvador","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",36072.8518196241
+"Eutrofia","Não","Sim","Salvador","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",44708.7966368677
+"Abaixo do peso","Não","Não","Belo Horizonte","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",115254.98667601
+"Abaixo do peso","Não","Não","Vitória","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",4930.70362271066
+"Sobrepeso","Sim","Sim","Rio de Janeiro","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",75746.164725454
+"Abaixo do peso","Não","Não","Rio de Janeiro","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",6346.52848965461
+"Eutrofia","Não","Não","Rio de Janeiro","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",9149.20270399686
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",274111.890259343
+"Eutrofia","Não","Não","São Paulo","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",87262.11176932
+"Sobrepeso","Sim","Sim","Curitiba","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",33468.0964165618
+"Eutrofia","Não","Sim","Curitiba","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",33468.0964165618
+"Abaixo do peso","Não","Não","Curitiba","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",59033.2246512357
+"Eutrofia","Não","Sim","Florianópolis","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",17439.3258881958
+"Sobrepeso","Sim","Sim","Porto Alegre","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",16984.4156353513
+"Obesidade grau I","Sim","Sim","Porto Alegre","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",21990.879464937
+"Eutrofia","Não","Sim","Porto Alegre","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",34390.6710853912
+"Abaixo do peso","Não","Não","Porto Alegre","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",48953.0005797494
+"Eutrofia","Não","Sim","Campo Grande","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",16028.4372081351
+"Abaixo do peso","Não","Não","Cuiabá","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",23846.5782464542
+"Sobrepeso","Sim","Sim","Brasília","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",198602.181617451
+"Eutrofia","Não","Sim","Brasília","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",79487.7916677179
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","Mais de 3 SM","Urbano","Homem","Superior completo",65453.7406103081
+"Abaixo do peso","Não","Não","Manaus","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",22207.3659047171
+"Eutrofia","Não","Sim","Natal","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",5639.97773481804
+"Abaixo do peso","Não","Não","João Pessoa","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",19181.0591679413
+"Sobrepeso","Sim","Sim","Recife","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",41437.660086306
+"Eutrofia","Não","Sim","Recife","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",34810.0839172775
+"Eutrofia","Não","Sim","Aracaju","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",27984.3290064937
+"Abaixo do peso","Não","Não","Salvador","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",17675.6966997081
+"Sobrepeso","Sim","Sim","Vitória","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",4230.36045751426
+"Eutrofia","Não","Sim","Vitória","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",5926.31310249325
+"Sobrepeso","Sim","Sim","Rio de Janeiro","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",154923.508318059
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",95527.4762209202
+"Abaixo do peso","Não","Não","Rio de Janeiro","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",21734.4288716707
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",139816.828785584
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",44687.395317979
+"Eutrofia","Não","Sim","Curitiba","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",78636.030335437
+"Sobrepeso","Sim","Sim","Florianópolis","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",2924.64283152072
+"Sobrepeso","Sim","Sim","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",5138.31874295603
+"Eutrofia","Não","Sim","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",44876.7471573602
+"Abaixo do peso","Não","Não","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",18207.4419013111
+"Obesidade grau I","Sim","Sim","Campo Grande","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",9137.62504388817
+"Abaixo do peso","Não","Não","Campo Grande","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",32387.9335255546
+"Sobrepeso","Sim","Sim","Brasília","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",21243.0324784315
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",8955.07961748226
+"Abaixo do peso","Não","Não","Brasília","40 a 59 anos","Mais de 3 SM","Urbano","Homem","Superior completo",4800.8729264609
+"Sobrepeso","Sim","Sim","Belém","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",58859.7496605186
+"Eutrofia","Não","Sim","Palmas","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",7488.1374909545
+"Eutrofia","Não","Sim","Recife","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",33332.0686354629
+"Sobrepeso","Sim","Sim","Maceió","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",22824.963015997
+"Abaixo do peso","Não","Não","Maceió","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",22824.963015997
+"Sobrepeso","Sim","Sim","Rio de Janeiro","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",15032.7667165725
+"Eutrofia","Não","Sim","Rio de Janeiro","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",43472.1505472006
+"Eutrofia","Não","Sim","São Paulo","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",119351.429251005
+"Abaixo do peso","Não","Não","São Paulo","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",14317.1570607745
+"Sobrepeso","Sim","Sim","Curitiba","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",28190.3252523619
+"Abaixo do peso","Não","Não","Curitiba","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",21494.6787840429
+"Eutrofia","Não","Sim","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",60324.8497382434
+"Abaixo do peso","Não","Não","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",17460.5983183131
+"Eutrofia","Não","Sim","Goiânia","60 anos ou mais","Mais de 3 SM","Urbano","Homem","Superior completo",30841.0643034995
+"Abaixo do peso","Não","Não","Boa Vista","25 a 39 anos","Até 1/2 SM","Rural","Homem","Superior completo",358.008595635244
+"Abaixo do peso","Não","Não","São Luís","25 a 39 anos","Até 1/2 SM","Rural","Homem","Superior completo",4859.74606833844
+"Eutrofia","Não","Sim","São Paulo","25 a 39 anos","1 até 2 SM","Rural","Homem","Superior completo",5057.6946808322
+"Abaixo do peso","Não","Não","Florianópolis","25 a 39 anos","Mais de 3 SM","Rural","Homem","Superior completo",1086.54745805645
+"Eutrofia","Não","Sim","Boa Vista","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Superior completo",4118.08779438528
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Superior completo",7746.45394149529
+"Abaixo do peso","Não","Não","Cuiabá","40 a 59 anos","Até 1/2 SM","Urbano","Mulher","Superior completo",10599.8055225804
+"Abaixo do peso","Não","Não","Manaus","18 a 24 anos","1/2 até 1 SM","Urbano","Mulher","Superior completo",9528.84710345708
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Superior completo",29202.1068848418
+"Abaixo do peso","Não","Não","Aracaju","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Superior completo",11224.1090196526
+"Sobrepeso","Sim","Sim","Salvador","25 a 39 anos","1/2 até 1 SM","Urbano","Mulher","Superior completo",81583.8577890281
+"Eutrofia","Não","Sim","Macapá","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Superior completo",4419.4300600487
+"Abaixo do peso","Não","Não","São Luís","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Superior completo",19242.945994262
+"Abaixo do peso","Não","Não","Salvador","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Superior completo",46514.7346769847
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","1/2 até 1 SM","Urbano","Mulher","Superior completo",4680.50294004041
+"Abaixo do peso","Não","Não","Rio Branco","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Superior completo",82941.8507730636
+"Abaixo do peso","Não","Não","Macapá","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Superior completo",6427.43851994887
+"Sobrepeso","Sim","Sim","João Pessoa","18 a 24 anos","1 até 2 SM","Urbano","Mulher","Superior completo",84835.5779721393
+"Sobrepeso","Sim","Sim","Rio Branco","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",7054.64198378172
+"Eutrofia","Não","Sim","Rio Branco","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",57984.3248523685
+"Sobrepeso","Sim","Sim","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",10933.3385072598
+"Eutrofia","Não","Sim","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",46462.6962599344
+"Abaixo do peso","Não","Não","Manaus","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",39943.6573953548
+"Abaixo do peso","Não","Não","Boa Vista","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",16907.3051836756
+"Abaixo do peso","Não","Não","Macapá","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",9270.2533618176
+"Abaixo do peso","Não","Não","Natal","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",16787.4630083387
+"Eutrofia","Não","Sim","Salvador","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",9931.55298646418
+"Abaixo do peso","Não","Não","Belo Horizonte","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",114878.997036874
+"Eutrofia","Não","Sim","Vitória","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",15532.718924973
+"Abaixo do peso","Não","Não","Curitiba","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",14952.9724416866
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","1 até 2 SM","Urbano","Mulher","Superior completo",21535.5055701376
+"Eutrofia","Não","Sim","Manaus","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Superior completo",10624.4967338404
+"Sobrepeso","Sim","Sim","Salvador","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Superior completo",101350.71948305
+"Eutrofia","Não","Sim","Curitiba","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Superior completo",89259.425707151
+"Abaixo do peso","Não","Não","Florianópolis","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Superior completo",6060.88687727281
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","1 até 2 SM","Urbano","Mulher","Superior completo",4974.54721749927
+"Eutrofia","Não","Sim","Recife","60 anos ou mais","1 até 2 SM","Urbano","Mulher","Superior completo",30637.5300683001
+"Abaixo do peso","Não","Não","Brasília","18 a 24 anos","2 até 3 SM","Urbano","Mulher","Superior completo",22125.6592822115
+"Abaixo do peso","Não","Não","Salvador","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Superior completo",43966.7232355102
+"Eutrofia","Não","Sim","Belo Horizonte","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Superior completo",21608.1684906498
+"Eutrofia","Não","Sim","Rio de Janeiro","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Superior completo",73029.7379522046
+"Sobrepeso","Sim","Sim","São Paulo","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Superior completo",45706.7674232238
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Superior completo",107135.877071806
+"Abaixo do peso","Não","Não","Campo Grande","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Superior completo",15453.6216234341
+"Eutrofia","Não","Sim","Cuiabá","25 a 39 anos","2 até 3 SM","Urbano","Mulher","Superior completo",18636.9573611434
+"Abaixo do peso","Não","Não","Rio Branco","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Superior completo",32079.2778359117
+"Abaixo do peso","Não","Não","Curitiba","40 a 59 anos","2 até 3 SM","Urbano","Mulher","Superior completo",72640.6617896656
+"Eutrofia","Não","Sim","Belém","18 a 24 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",22263.9752056791
+"Sobrepeso","Sim","Sim","Belo Horizonte","18 a 24 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",99344.0712010999
+"Eutrofia","Não","Sim","Florianópolis","18 a 24 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",60127.3292445483
+"Abaixo do peso","Não","Não","Belém","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",92102.3197773351
+"Abaixo do peso","Não","Não","Palmas","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",8787.94300485015
+"Eutrofia","Não","Sim","São Luís","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",62776.3478110767
+"Abaixo do peso","Não","Não","São Luís","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",94164.521716615
+"Abaixo do peso","Não","Não","João Pessoa","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",32332.1409106365
+"Eutrofia","Não","Sim","Recife","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",56581.709218613
+"Abaixo do peso","Não","Não","Salvador","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",13950.7727647105
+"Abaixo do peso","Não","Não","Belo Horizonte","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",75533.1168484959
+"Sobrepeso","Sim","Sim","Vitória","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",11884.6939244828
+"Eutrofia","Não","Sim","Rio de Janeiro","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",76399.1954945501
+"Abaixo do peso","Não","Não","Rio de Janeiro","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",82486.471694646
+"Sobrepeso","Sim","Sim","São Paulo","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",142106.616854605
+"Eutrofia","Não","Sim","São Paulo","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",25108.7830917019
+"Abaixo do peso","Não","Não","São Paulo","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",199052.813512324
+"Abaixo do peso","Não","Não","Curitiba","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",73744.2285049761
+"Abaixo do peso","Não","Não","Porto Alegre","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",6587.36025939871
+"Eutrofia","Não","Sim","Campo Grande","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",24264.0112689486
+"Abaixo do peso","Não","Não","Campo Grande","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",15453.6216234341
+"Sobrepeso","Sim","Sim","Brasília","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",23386.3793843937
+"Eutrofia","Não","Sim","Brasília","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",5031.64595036862
+"Abaixo do peso","Não","Não","Brasília","25 a 39 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",65847.1971767932
+"Sobrepeso","Sim","Sim","Manaus","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",1649.05856788461
+"Sobrepeso","Sim","Sim","Belém","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",17265.9470387891
+"Eutrofia","Não","Sim","Belém","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",63693.4187168584
+"Abaixo do peso","Não","Não","Belém","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",35186.6132508483
+"Sobrepeso","Não","Sim","Macapá","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",6282.87932025834
+"Abaixo do peso","Não","Não","Teresina","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",7673.5913437096
+"Abaixo do peso","Não","Não","Fortaleza","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",29811.2433082346
+"Eutrofia","Não","Sim","João Pessoa","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",10937.237155802
+"Abaixo do peso","Não","Não","João Pessoa","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",49687.3620558831
+"Abaixo do peso","Não","Não","Recife","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",45813.9493546539
+"Eutrofia","Não","Sim","Maceió","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",12349.6951223858
+"Sobrepeso","Sim","Sim","Salvador","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",30236.7867388414
+"Obesidade grau I","Sim","Sim","Salvador","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",32068.7697816545
+"Abaixo do peso","Não","Não","Salvador","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",32068.7697816545
+"Eutrofia","Não","Sim","Belo Horizonte","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",51230.8487887543
+"Abaixo do peso","Não","Não","Belo Horizonte","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",25615.4243943825
+"Eutrofia","Não","Não","Belo Horizonte","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",5709.80649548304
+"Sobrepeso","Sim","Sim","Rio de Janeiro","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",47042.162144676
+"Obesidade grau I","Sim","Sim","Rio de Janeiro","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",94084.324289352
+"Eutrofia","Não","Sim","Rio de Janeiro","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",114087.145531735
+"Abaixo do peso","Não","Não","Rio de Janeiro","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",35222.6086525704
+"Eutrofia","Não","Sim","São Paulo","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",48432.2941499823
+"Abaixo do peso","Não","Não","São Paulo","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",174505.801928023
+"Abaixo do peso","Não","Não","Curitiba","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",103131.056548986
+"Abaixo do peso","Não","Não","Florianópolis","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",15503.5628968918
+"Eutrofia","Não","Sim","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",19178.3556270689
+"Abaixo do peso","Não","Não","Porto Alegre","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",62064.9315016703
+"Eutrofia","Não","Sim","Cuiabá","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",36155.3628496493
+"Eutrofia","Não","Sim","Brasília","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",9279.03468306756
+"Abaixo do peso","Não","Não","Brasília","40 a 59 anos","Mais de 3 SM","Urbano","Mulher","Superior completo",13918.5520246013
+"Eutrofia","Não","Sim","São Luís","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",13003.5870013251
+"Sobrepeso","Sim","Sim","Recife","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",86489.1635890353
+"Abaixo do peso","Não","Não","Recife","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",36743.5870915288
+"Eutrofia","Não","Sim","Maceió","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",29008.8951164715
+"Eutrofia","Não","Sim","Salvador","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",72056.4252510375
+"Eutrofia","Não","Sim","Rio de Janeiro","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",165093.198532424
+"Abaixo do peso","Não","Não","Rio de Janeiro","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",82874.9900817449
+"Eutrofia","Não","Sim","São Paulo","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",81574.5343405707
+"Abaixo do peso","Não","Não","São Paulo","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",22730.5517982404
+"Eutrofia","Não","Sim","Curitiba","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",61808.5237431274
+"Sobrepeso","Sim","Sim","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",48511.202758968
+"Abaixo do peso","Não","Não","Porto Alegre","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",48093.8631104896
+"Abaixo do peso","Não","Não","Campo Grande","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",26276.667322218
+"Sobrepeso","Sim","Sim","Brasília","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",16884.158301869
+"Eutrofia","Não","Sim","Brasília","60 anos ou mais","Mais de 3 SM","Urbano","Mulher","Superior completo",16740.5210529482
+"Abaixo do peso","Não","Não","Cuiabá","40 a 59 anos","2 até 3 SM","Rural","Mulher","Superior completo",1200.05287695024
+"Abaixo do peso","Não","Não","Campo Grande","40 a 59 anos","Mais de 3 SM","Rural","Mulher","Superior completo",386.29177064985
