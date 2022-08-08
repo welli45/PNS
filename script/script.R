@@ -148,7 +148,7 @@ tab_classifica_IMCPNSUF3 <- svytable(~IMC_classif+obesid+excpeso+Unidades_da_Fed
   filter(Freq != 0)
 
 # Salvando tabela
-write.csv(tab_classifica_IMCPNSUF3, "tab_classifica_IMCPNSUF3.csv",
+write.csv(tab_classifica_IMCPNSUF3, "data/tab_classifica_IMCPNSUF3.csv",
           fileEncoding = "UTF-8", row.names = F)
 
 # capitais 
@@ -162,7 +162,7 @@ tab_classifica_IMCPNSCS3 <- svytable(~IMC_classif+obesid+excpeso+Capital+
   filter(Freq != 0)
 
 # Salvando tabela
-write.csv(tab_classifica_IMCPNSCS3, "tab_classifica_IMCPNSCS3.csv",
+write.csv(tab_classifica_IMCPNSCS3, "data/tab_classifica_IMCPNSCS3.csv",
           fileEncoding = "UTF-8", row.names = F)
 
 # removendo data frame de 2013
@@ -312,7 +312,7 @@ tab_classifica_IMCPNSUF9 <- svytable(~IMC_classif+obesid+excpeso+Unidades_da_Fed
   filter(Freq != 0)
 
 # Salvando tabela
-write.csv(tab_classifica_IMCPNSUF9, "tab_classifica_IMCPNSUF9.csv",
+write.csv(tab_classifica_IMCPNSUF9, "data/tab_classifica_IMCPNSUF9.csv",
           fileEncoding = "UTF-8", row.names = F)
 
 # capitais 
@@ -326,6 +326,9 @@ tab_classifica_IMCPNSCS9 <- svytable(~IMC_classif+obesid+excpeso+Capital+
   filter(Freq != 0)
 
 # Salvando tabela
-write.csv(tab_classifica_IMCPNSCS9, "tab_classifica_IMCPNSCS9.csv",
+write.csv(tab_classifica_IMCPNSCS9, "data/tab_classifica_IMCPNSCS9.csv",
           fileEncoding = "UTF-8", row.names = F)
 
+# removendo data frame 
+
+rm(pns.svy9Sd)
